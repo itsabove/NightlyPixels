@@ -2,7 +2,7 @@
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/tactile/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/tactile/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-tactile.svg)](https://badge.fury.io/rb/jekyll-theme-tactile)
 
-*Tactile is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/tactile), or even [use it today](#usage).*
+*Tactile is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](https://pages-themes.github.io/tactile), or even [use it today](#usage).*
 
 ![Thumbnail of Tactile](thumbnail.png)
 
@@ -80,7 +80,7 @@ Templates often rely on URLs supplied by GitHub such as links to your repository
 2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
     ```yml
     github:
-      zip_url: http://example.com/download.zip
+      zip_url: https://example.com/download.zip
       another_url: another value
     ```
 3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
@@ -109,7 +109,7 @@ If you'd like to preview the theme locally (for example, in the process of propo
 2. `cd` into the theme's directory
 3. Run `script/bootstrap` to install the necessary dependencies
 4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+5. Visit [`localhost:4000`](https://localhost:4000) in your browser to preview the theme
 
 ### Running tests
 
