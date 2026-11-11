@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+![Octocat](assets/images/RIP.png)
 [Resonance Review](Resonance-Review.md).
 
 There should be whitespace between paragraphs.
