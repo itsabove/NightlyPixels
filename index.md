@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Resonance Review](itsabove/NightlyPixels/Resonance-Review.md).
+[Resonance Review](Resonance-Review.md).
 
 There should be whitespace between paragraphs.
 
