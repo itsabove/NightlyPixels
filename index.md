@@ -8,30 +8,30 @@ title: "Nightly Pixel"
 ***
 
 <div style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://nightlypixel.com" style="flex-shrink: 0;">
+  <a href="/_posts/2026-11-12-resonance-review.md" style="flex-shrink: 0;">
     <img src="assets/images/res.png" alt="Description" style="width: 150px; height: auto; display: block;" />
   </a>
   <div>
     <p style="font-size: 10px; font-weight: normal;">
-      <a href="https://nightlypixel.com" style="color: #1d3557; text-decoration: none;">Reviews</a>
+      <a href="/_posts/2026-11-12-resonance-review.md" style="color: #1d3557; text-decoration: none;">Reviews</a>
     </p>
     <p style="font-size: 30px; font-weight: bold;">
-      <a href="https://nightlypixel.com" style="color: #1d3557; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
+      <a href="/_posts/2026-11-12-resonance-review.md" style="color: #1d3557; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
     </p>   
     <p>I’ve always avoided the Plague Tale series not because they didn’t interest me, but because I have a phobia of rodents, and, honestly, rats give me the ick. Thankfully, that’s not what Resonance is. It’s been a while since I played a game like this; lately I’ve been playing Forza, Gears, and other games different from this genre. What I can say is ...</p>
   </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://nightlypixel.com" style="flex-shrink: 0;">
+  <a href="/_posts/2026-11-12-resonance-review.md" style="flex-shrink: 0;">
     <img src="assets/images/res.png" alt="Description" style="width: 150px; height: auto; display: block;" />
   </a>
   <div>
     <p style="font-size: 15px; font-weight: normal; margin: 0 0 4px 0;">
-      <a href="https://nightlypixel.com" style="color: #1d3557; text-decoration: none;">Reviews</a>
+      <a href="/_posts/2026-11-12-resonance-review.md" style="color: #1d3557; text-decoration: none;">Reviews</a>
     </p>
     <p style="font-size: 30px; font-weight: bold; margin: 0 0 8px 0; line-height: 1.2;">
-      <a href="https://nightlypixel.com" style="color: #1d3557; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
+      <a href="/_posts/2026-11-12-resonance-review.md" style="color: #1d3557; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
     </p>   
     <p style="margin: 0;">I’ve always avoided the Plague Tale series not because they didn’t interest me, but because I have a phobia of rodents, and, honestly, rats give me the ick. Thankfully, that’s not what Resonance is. It’s been a while since I played a game like this; lately I’ve been playing Forza, Gears, and other games different from this genre. What I can say is ...</p>
   </div>
