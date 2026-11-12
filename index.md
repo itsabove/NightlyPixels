@@ -3,6 +3,14 @@ layout: default
 title: "Nightly Pixel"
 ---
 
+ <style>
+  .hover-underline {
+    text-decoration: none;
+  }
+  .hover-underline:hover {
+    text-decoration: underline;
+  }
+</style>
 
 [Resonance Review](_posts/2026-11-12-resonance-review.md) | [Link 2](_posts/2026-11-12-resonance-review.md) | [Link 3](_posts/2026-11-12-resonance-review.md)
 
@@ -19,15 +27,6 @@ title: "Nightly Pixel"
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
   <img src="/assets/image.png" alt="Description" style="width: 200px; height: auto; flex-shrink: 0;" />
-
- <style>
-  .hover-underline {
-    text-decoration: none;
-  }
-  .hover-underline:hover {
-    text-decoration: underline;
-  }
-</style>
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
   <img src="/assets/image.png" alt="Description" style="width: 200px; height: auto; flex-shrink: 0;" />
