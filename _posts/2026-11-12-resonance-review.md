@@ -32,3 +32,5 @@ I played this game on my Xbox Series X, so the quality I can provide is only for
 ![001](/assets/images/post/resonance/006.png)
 
 Overall, this game hits the mark for me as one of the better games to come out this year, with a great story and beautiful graphics. Resonance was so good that I’d recommend you give it a try. I didn’t feel like my knowledge of the previous ones made much difference, but as my intro to this series, it was a good place to jump in without feeling like I missed important information. Maybe I did. Who knows? I sure won’t until I get around to playing the others, and honestly, now I am interested in giving those a try.
+
+[back](./)
