@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![Octocat](assets/images/RIP.png)
-[Resonance Review](Resonance-Review.md).
+[Resonance Review](_posts/2026-11-12-my-first-post.md)
 
 ```
 8/10
