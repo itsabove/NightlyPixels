@@ -5,7 +5,7 @@ author: "Jose Balderas"
 tags: ["Review", "tag2"]
 ---
 
-![001](assets/images/post/001.png)
+![001](/assets/images/post/001.png)
 
 I’ve always avoided the Plague Tale series not because they didn’t interest me, but because I have a phobia of rodents, and, honestly, rats give me the ick. Thankfully, that’s not what Resonance is. It’s been a while since I played a game like this; lately I’ve been playing Forza, Gears, and other games different from this genre. What I can say is that, honestly, this game captivated me more than I imagined. At first I thought I'd drop this game after a couple of tries to get into it, but it stuck with me from the beginning, and after that, it was all I was dedicated to playing (I even dropped Gears E-Day multiplayer for it).
 
