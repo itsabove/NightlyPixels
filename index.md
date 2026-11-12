@@ -3,7 +3,7 @@ layout: default
 title: "Nightly Pixel"
 ---
 
-[Resonance Review](_posts/2026-11-12-resonance-review.md) | [Link 2](_posts/2026-11-12-resonance-review.md) | [Link 3](_posts/2026-11-12-resonance-review.md)
+[Home](_posts/2026-11-12-resonance-review.md) | [Reviews](_posts/2026-11-12-resonance-review.md) | [Previews](_posts/2026-11-12-resonance-review.md)| [List](_posts/2026-11-12-resonance-review.md) | [Features ](_posts/2026-11-12-resonance-review.md)
 
 ***
 <div style="display: flex; align-items: center; gap: 15px;">
