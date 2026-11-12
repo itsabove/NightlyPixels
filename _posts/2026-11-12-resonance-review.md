@@ -7,6 +7,7 @@ tags: ["Review", "tag2"]
 
 [Home](./) | [Reviews](_posts/2026-11-12-resonance-review.md) | [Previews](_posts/2026-11-12-resonance-review.md)| [List](_posts/2026-11-12-resonance-review.md) | [Features ](_posts/2026-11-12-resonance-review.md)
 
+***
 
 ![001](/assets/images/post/resonance/008.png)
 
