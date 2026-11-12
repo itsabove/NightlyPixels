@@ -3,7 +3,7 @@ layout: default
 title: "Nightly Pixel"
 ---
 
-[Home](https://nightlypixel.com/) | [Reviews](_posts/2026-11-12-resonance-review.md) | [Previews](_posts/2026-11-12-resonance-review.md)| [List](_posts/2026-11-12-resonance-review.md) | [Features ](_posts/2026-11-12-resonance-review.md)
+[Home](https://nightlypixel.com/) | [Reviews](/reviews.md) | [Previews](_posts/2026-11-12-resonance-review.md)| [List](_posts/2026-11-12-resonance-review.md) | [Features ](_posts/2026-11-12-resonance-review.md)
 
 ***
 
