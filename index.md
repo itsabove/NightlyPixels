@@ -8,7 +8,7 @@ title: "Nightly Pixel"
 ***
 
 <div style="display: flex; align-items: center; gap: 15px;">
-  <a href="(https://nightlypixel.com/2026/11/12/resonance-review.html)" style="flex-shrink: 0;">
+  <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" style="flex-shrink: 0;">
     <img src="assets/images/res.png" alt="Description" style="width: 150px; height: auto; display: block;" />
   </a>
   <div>
