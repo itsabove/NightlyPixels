@@ -33,7 +33,10 @@ Unfortunately, the part that fell a little bit flat for me was the combat in its
 
 I played this game on my Xbox Series X, so the quality I can provide is only for this console. This game was wonderful and looked beautiful every step of the way. I played on performance mode over quality, and even then I didn’t run into a problem; nothing ruined my experience. As for the graphics, I was left speechless by this team; it’s one of the nicest games I’ve seen in a while aside from the graphical showcase Gears E-Day has been, but they really hit it out of the park with the way it looks and plays.
 
-
+```
+8/10
+8/10
+```
 
 
 Overall, this game hits the mark for me as one of the better games to come out this year, with a great story and beautiful graphics. Resonance was so good that I’d recommend you give it a try. I didn’t feel like my knowledge of the previous ones made much difference, but as my intro to this series, it was a good place to jump in without feeling like I missed important information. Maybe I did. Who knows? I sure won’t until I get around to playing the others, and honestly, now I am interested in giving those a try.
