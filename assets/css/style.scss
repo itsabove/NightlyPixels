@@ -3,4 +3,25 @@
 
 @import "jekyll-theme-tactile";
 
+/* Mobile-only layout adjustments */
+@media screen and (max-width: 768px) {
+  
+  /* 1. Make the main content container fit the phone screen cleanly */
+  .inner {
+    width: 92%;
+    max-width: 100%;
+    padding: 0 10px;
+  }
+
+  /* 2. Stack multi-column layouts vertically on mobile */
+  .two-column-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* 3. Adjust header or title sizes so they don't wrap awkwardly */
+  header h1 {
+    font-size: 28px;
+  }
+}
 
