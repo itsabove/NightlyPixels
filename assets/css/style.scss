@@ -2,3 +2,26 @@
 ---
 
 @import "jekyll-theme-tactile";
+
+
+
+
+.two-column-container {
+  display: flex;
+  gap: 20px;
+}
+
+.two-column-container .column {
+  flex: 1;
+}
+
+/* Stack columns vertically on small mobile screens */
+@media (max-width: 600px) {
+  .two-column-container {
+    flex-direction: column;
+  }
+}
+
+
+
+
