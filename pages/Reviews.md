@@ -10,6 +10,6 @@ layout: default
 <h4 align="center"><b>Table of Contents</b></h4>
 <br>
 <p style="text-align: center;">
-  <a href="/_posts/2026-11-12-resonance-review.md" style="color: #363636;">Resonance: A Plague Tale Legacy</a>
+  <a href="/_posts/2026-11-12-resonance-review.html" style="color: #363636;">Resonance: A Plague Tale Legacy</a>
 </p>
 
