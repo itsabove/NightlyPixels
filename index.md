@@ -3,7 +3,7 @@ layout: default
 title: "Nightly Pixel"
 ---
 
-[Home](https://nightlypixel.com/) | [Reviews](Reviews.md) | [Previews](Reviews.md)| [List](Reviews.md) | [Features ](Reviews.md)
+[Home](https://nightlypixel.com/) | [Reviews](/page/Reviews.md) | [Previews](Reviews.md)| [List](Reviews.md) | [Features ](Reviews.md)
 
 ***
 
