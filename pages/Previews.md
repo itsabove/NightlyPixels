@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1 align="center"><b>Previews</b></h1>
-<h4 align="center"><b>A critical look at the latest games</b></h4>
+<h4 align="center"><b>An early look at upcoming games</b></h4>
 <br>
 
 ***
