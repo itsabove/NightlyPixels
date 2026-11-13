@@ -15,4 +15,4 @@ layout: default
 
 
 
-[back](./)
+[back](nightlypixel.com)
