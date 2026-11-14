@@ -5,6 +5,7 @@ full_width: true
 body_class: wide-post
 ---
 
+
 <div class="two-columns-left-wide">
   <div>
     <h3>Main Content (Wider)</h3>
