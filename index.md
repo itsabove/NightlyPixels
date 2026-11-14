@@ -12,7 +12,7 @@ body_class: wide-post
   <a href="{{ latest_post.url | relative_url }}" title="Read {{ latest_post.title }}">
     <img src="https://6af7a66789893ca61a9aff38.imgix.net/008.png" 
          alt="{{ latest_post.title }}" 
-         style="width: 100%; height: 250px; object-fit: position; display: block;">
+         style="width: 100%; height: 250px; object-fit: cover; object-fit: position; display: block;">
   </a>
 </div>
 
