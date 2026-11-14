@@ -8,3 +8,26 @@ body.full-width-page .inner {
   max-width: 95%; /* Or use 100%, 1200px, etc. */
   width: 80%;
 }
+
+/* Two-column layout */
+.two-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin: 20px 0;
+}
+
+/* Stack columns into a single column on small mobile screens */
+@media (max-width: 600px) {
+  .two-columns {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Optional: Widen the post container so two columns fit comfortably */
+body.wide-post .inner {
+  max-width: 960px;
+}
+Use code with caution.
+
+Ste
