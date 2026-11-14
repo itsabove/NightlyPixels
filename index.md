@@ -26,7 +26,7 @@ body_class: wide-post
   </div>
   <div>
     <h4>Table of contents</h4>
-    Right column content
+    <a href="/2026/11/12/resonance-review.html" style="color: #363636;">Resonance: A Plague Tale Legacy</a>
   </div>
 </div>
 
