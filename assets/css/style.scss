@@ -12,7 +12,7 @@ body.full-width-page .inner {
 /* Two-column layout */
 .two-columns {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 2fr 1fr; /* Left column is twice as wide as the right (66% / 33%) */
   gap: 24px;
   margin: 20px 0;
 }
