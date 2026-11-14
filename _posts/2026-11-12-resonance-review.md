@@ -15,11 +15,9 @@ tags: ["Review", "tag2"]
     <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" style="color: #5E787D; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
   </p>
 </div>
-
+<br>
 
 I’ve always avoided the Plague Tale series not because they didn’t interest me, but because I have a phobia of rodents, and, honestly, rats give me the ick. Thankfully, that’s not what Resonance is. It’s been a while since I played a game like this; lately I’ve been playing Forza, Gears, and other games different from this genre. What I can say is that, honestly, this game captivated me more than I imagined. At first I thought I'd drop this game after a couple of tries to get into it, but it stuck with me from the beginning, and after that, it was all I was dedicated to playing (I even dropped Gears E-Day multiplayer for it).
-
-![001](https://6af7a66789893ca61a9aff38.imgix.net/sandbox/r01.png)
 
 There were plenty of reasons why I could have avoided this game: the fact that it’s the third game in the series, or that it has its fair amount of stealth, which sadly I'd fallen out of love with at the time, but actually I think it’s one of the better games I’ve played this year (not that I’ve played many). The main reason is the story; it grabbed me right from the start. I was intrigued by what was happening to Sophia, why she drew those things from her visions, and, from a little knowledge of the previous games, what the danger in this game is. In a way, this game brought back feelings I had when I first played Assassin’s Creed. I know there are plenty of games that fit that formula; the truth is I just haven’t been playing this type of game at all anymore.
 
