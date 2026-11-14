@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Nightly Pixel"
+full_width: true
 ---
 
 <div style="display: flex; align-items: center; gap: 15px;">
