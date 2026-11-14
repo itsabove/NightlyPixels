@@ -17,10 +17,17 @@ body.full-width-page .inner {
   margin: 20px 0;
 }
 
-/* Stack columns into a single column on small mobile screens */
+/* Desktop: two columns (left wider than right) */
+.two-columns-left-wide {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 24px;
+  margin: 20px 0;
+}
+
+/* Mobile: stack into a single column */
 @media (max-width: 600px) {
-  .two-columns {
+  .two-columns-left-wide {
     grid-template-columns: 1fr;
   }
 }
-
