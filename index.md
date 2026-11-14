@@ -54,7 +54,8 @@ body_class: wide-post
     </div>    
    </div> 
      <!-- <-- Author Ends -->
-  ***
+  <hr>
+  
 </div>
   </div>
   <div>
