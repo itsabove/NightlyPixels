@@ -14,7 +14,7 @@ Being a creative and writing about games isn't always all fun; you want to make 
 
 Here at Nightly Pixel we're putting our interest and passion ahead of anything else. Driven to give these spaces that get overlooked some value. We will be writing about all things gaming with a focus on criticism and opinions.
 
-I have hopes and dreams of building a space for people who still enjoy this form of content to find new games, or just to read opinions on something they enjoyed. Today it's just me writing previews, reviews, and my opinions and more. 
+I have hopes and dreams of building a space for people who still enjoy this form of content to find new games, or just to read opinions on something they like. Today it's just me writing previews, reviews, and my opinions and more. 
 
 Thanks for being here,
 
