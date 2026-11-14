@@ -17,7 +17,7 @@ tags: ["Review", "tag2"]
 </div>
    <div>
   <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-    <img src="https://imgix.net" alt="Jose Balderas" style="width: 50px; height: auto; display: block; flex-shrink: 0;" />
+    <img src="https://6af7a66789893ca61a9aff38.imgix.net/writer.png" alt="Jose Balderas" style="width: 50px; height: auto; display: block; flex-shrink: 0;" />
     <div>
       <p style="margin: 0; font-weight: 900;">Jose Balderas</p>
       <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">GT: II Above II</p>
