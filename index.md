@@ -9,7 +9,7 @@ body_class: wide-post
 {% assign latest_post = site.posts.first %}
 <div class="hero-banner" style="margin-bottom: 30px;">
   <a href="{{ latest_post.url | relative_url }}" title="Read {{ latest_post.title }}">
-    <img src="{{ '/assets/images/my-custom-hero.jpg' | relative_url }}" 
+    <img src="{{ '(https://6af7a66789893ca61a9aff38.imgix.net/008.png)' | relative_url }}" 
          alt="{{ latest_post.title }}" 
          style="width: 100%; height: 250px; object-fit: cover; display: block;">
   </a>
