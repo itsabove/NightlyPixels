@@ -5,6 +5,16 @@ full_width: true
 body_class: wide-post
 ---
 
+<!-- Hero Section for Latest Post -->
+{% assign latest_post = site.posts.first %}
+<div class="hero-latest-post" style="border: 1px solid #ddd; padding: 20px; margin-bottom: 30px; background: #f9f9f9;">
+  <h2>Latest Post: <a href="{{ latest_post.url | relative_url }}">{{ latest_post.title }}</a></h2>
+  <p><small>Published on {{ latest_post.date | date: "%B %d, %Y" }}</small></p>
+  <p>{{ latest_post.excerpt }}</p>
+  <a href="{{ latest_post.url | relative_url }}" class="btn">Read More &rarr;</a>
+</div>
+
+<!-- Rest of your normal index content follows below -->
 
 <div class="two-columns-left-wide">
   <div>
