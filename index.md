@@ -5,14 +5,14 @@ full_width: true
 body_class: wide-post
 ---
 
-<div class="two-columns">
+<div class="two-columns-left-wide">
   <div>
-    <h3>Left Column</h3>
-    <p>Add your left-side text, lists, or images here.</p>
+    <h3>Main Content (Wider)</h3>
+    <p>Your main article text goes here.</p>
   </div>
   <div>
-    <h3>Right Column</h3>
-    <p>Add your right-side text, lists, or images here.</p>
+    <h3>Sidebar / Image (Narrower)</h3>
+    <p>Supporting notes, links, or an image.</p>
   </div>
 </div>
 
