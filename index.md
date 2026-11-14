@@ -29,7 +29,7 @@ body_class: wide-post
   <div>
     <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" style="flex-shrink: 0;">
-    <img src="https://6af7a66789893ca61a9aff38.imgix.net/res.png" alt="Description" style="width: 150px; height: auto; display: block;" />
+    <img src="https://6af7a66789893ca61a9aff38.imgix.net/r02.png" alt="Description" style="width: 150px; height: auto; display: block;" />
   </a>
   <div>
     <p style="font-size: 15px; font-weight: normal; margin: 0 0 4px 0;">
