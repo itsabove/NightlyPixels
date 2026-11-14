@@ -6,7 +6,7 @@ body_class: wide-post
 ---
 
 
-<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 24px; margin: 20px 0;">
+<div class="two-columns-left-wide">
   <div>
     <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" style="flex-shrink: 0;">
