@@ -11,7 +11,7 @@ body_class: wide-post
 <div class="hero-banner" style="position: relative; margin-bottom: 30px; width: 100%; height: 250px; overflow: hidden;">
   <a href="{{ latest_post.url | relative_url }}" title="Read {{ latest_post.title }}" style="display: block; width: 100%; height: 100%; text-decoration: none;">
     
-    <img src="https://imgix.net" 
+    <img src="https://6af7a66789893ca61a9aff38.imgix.net/008.png" 
          alt="Hero Banner" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center 20%; display: block;">
 
