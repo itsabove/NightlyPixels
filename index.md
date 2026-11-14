@@ -51,7 +51,8 @@ body_class: wide-post
    <div>
      <p style="margin: 0;"><b>Jose Balderas</b></p>
      <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">GT: II Above II</p>
-</div>    
+    </div>    
+   </div>  
 </div>
   </div>
   <div>
