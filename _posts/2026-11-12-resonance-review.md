@@ -13,6 +13,7 @@ tags: ["Review", "tag2"]
   </p>
   <div style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2; color: #5E787D;">
     <h1><b>Resonance: A Plague Tale Legacy Review</b></h1>
+    <h4 style="font-weight: 300;">First Published: November 11, 2026</h4>
   </div>
   <h4>It All Leads to Pain</h4>
 </div>
