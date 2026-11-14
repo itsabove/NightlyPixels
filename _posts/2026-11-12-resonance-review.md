@@ -23,7 +23,7 @@ I’ve always avoided the Plague Tale series not because they didn’t interest 
 
 There were plenty of reasons why I could have avoided this game: the fact that it’s the third game in the series, or that it has its fair amount of stealth, which sadly I'd fallen out of love with at the time, but actually I think it’s one of the better games I’ve played this year (not that I’ve played many). The main reason is the story; it grabbed me right from the start. I was intrigued by what was happening to Sophia, why she drew those things from her visions, and, from a little knowledge of the previous games, what the danger in this game is. In a way, this game brought back feelings I had when I first played Assassin’s Creed. I know there are plenty of games that fit that formula; the truth is I just haven’t been playing this type of game at all anymore.
 
-![001](/assets/images/post/resonance/002.png)
+![001](https://6af7a66789893ca61a9aff38.imgix.net/r02.png)
 
 The characters in this game all grew on me a little, even the ones I wasn’t a big fan of, like Leni, who tags along with you for a good amount of the story; they never get overly frustrating or interrupt the story to the point where it becomes a nuisance, which is something I’ve noticed a lot of games having lately. Trust me, I have bad takes most of the time, and some characters I like can be annoying, but Sophia wasn’t bothersome at all; she was well developed, and you get her emotions pretty straightforward without them feeling unwarranted. The way they all interact is a breeze; no one has too much to say unless you’re asking for assistance yourself. Most of the time, the chatter is quiet unless they’re dropping a bit of information in a side conversation or playful banter.
 
