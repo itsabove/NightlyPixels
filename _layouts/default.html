@@ -14,8 +14,10 @@
     {% include head-custom.html %}
   </head>
 
-  <body class="{{ page.body_class }}">
-
+  <body>
+    <div id="container">
+      <div class="inner">
+        
 <header style="text-align: center;">
   {% if site.logo %}
     <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" style="max-width: 150px; height: auto;" />
