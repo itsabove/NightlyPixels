@@ -26,8 +26,9 @@ body.full-width-page .inner {
 }
 
 /* Mobile: stack into a single column */
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .two-columns-left-wide {
-    grid-template-columns: 1fr;
+    display: block !important;
+    grid-template-columns: 1fr !important;
   }
 }
