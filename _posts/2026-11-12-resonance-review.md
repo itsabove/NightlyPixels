@@ -18,6 +18,7 @@ tags: ["Review", "tag2"]
     <h4 style="font-weight: 500; color: #5E787D;">"Ahh no rats"</h4>
   </div>
 </div>
+<br>
    <div>
   <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
     <img src="https://6af7a66789893ca61a9aff38.imgix.net/writer.png" alt="Jose Balderas" style="width: 50px; height: auto; display: block; flex-shrink: 0;" />
