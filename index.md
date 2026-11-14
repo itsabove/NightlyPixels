@@ -8,14 +8,21 @@ body_class: wide-post
 <!-- Hero Section for Latest Post -->
 
 {% assign latest_post = site.posts.first %}
-<div class="hero-banner" style="margin-bottom: 30px;">
-  <a href="{{ latest_post.url | relative_url }}" title="Read {{ latest_post.title }}">
-    <img src="https://6af7a66789893ca61a9aff38.imgix.net/008.png" 
+<div class="hero-banner" style="position: relative; margin-bottom: 30px; width: 100%; height: 250px; overflow: hidden;">
+  <a href="{{ latest_post.url | relative_url }}" title="Read {{ latest_post.title }}" style="display: block; width: 100%; height: 100%; text-decoration: none;">
+    
+    <img src="https://imgix.net" 
          alt="{{ latest_post.title }}" 
-         style="width: 100%; height: 250px; object-fit: cover; object-fit: position; display: block;">
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center 20%; display: block;">
+
+    <!-- Text Overlay -->
+    <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.15) 60%, transparent 100%); display: flex; flex-direction: column; justify-content: flex-end; padding: 20px; box-sizing: border-box;">
+      <span style="color: #dddddd; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Latest Post</span>
+      <h2 style="color: #ffffff; margin: 0; font-size: 24px; line-height: 1.2; text-shadow: 1px 1px 3px rgba(0,0,0,0.8);">{{ latest_post.title }}</h2>
+    </div>
+
   </a>
 </div>
-
 
 <!-- Rest of your normal index content follows below -->
 
