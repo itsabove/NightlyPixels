@@ -3,3 +3,8 @@
 
 @import "jekyll-theme-tactile";
 
+/* Expand the container only on pages with the full-width-page class */
+body.full-width-page .inner {
+  max-width: 95%; /* Or use 100%, 1200px, etc. */
+  width: 80%;
+}
