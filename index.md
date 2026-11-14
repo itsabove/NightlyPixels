@@ -42,8 +42,8 @@ body_class: wide-post
     <p style="margin: 0;">Plague Tale wasn't for me, but a game without rats? That's something I can get into.</p>
   </div>
  </div>    
-<!-- <-- First Post Ends -->
-    
+    <!-- <-- First Post Ends -->
+    <br>
     <!-- Row 2: Author Image & Info (Now sits underneath) -->
 <div>
    <div style="display: flex; align-items: center; gap: 15px;">
@@ -52,7 +52,9 @@ body_class: wide-post
      <p style="margin: 0;"><b>Jose Balderas</b></p>
      <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">GT: II Above II</p>
     </div>    
-   </div>  
+   </div> 
+     <!-- <-- Author Ends -->
+  ***
 </div>
   </div>
   <div>
