@@ -2,7 +2,21 @@
 layout: default
 title: "Nightly Pixel"
 full_width: true
+body_class: wide-post
 ---
+
+<div class="two-columns">
+  <div>
+    <h3>Left Column</h3>
+    <p>Add your left-side text, lists, or images here.</p>
+  </div>
+  <div>
+    <h3>Right Column</h3>
+    <p>Add your right-side text, lists, or images here.</p>
+  </div>
+</div>
+
+
 
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" style="flex-shrink: 0;">
