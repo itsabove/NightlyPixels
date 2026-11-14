@@ -29,7 +29,7 @@ The characters in this game all grew on me a little, even the ones I wasn’t a 
 
 The story in itself is mysterious. As I stated before, I have little knowledge of the previous games, so I can’t really say if it matches the likes of the other Plague Tale games or if they have significant connections, but as a first-time player in this particular story, it has its moments, and I was hooked from beginning to end. With a three-way race to the end to find the treasure or the mystery of Sophia's visions, along with some betrayal and a few more twists in this story, I'd say it was properly done. Asobo has been delivering great work; with previous games being well rated, this one doesn’t miss its mark either. I felt like everything in this game creatively explained something new, and every path you took told a story of the past in such a way that it made me admire it even more, but that should be something you discover on your own.
 
-![001](/assets/images/post/resonance/004.png)
+<h1>Combat and Stealth</h1>
 
 Unfortunately, the part that fell a little bit flat for me was the combat in itself; it’s simple most of the time. I felt like I was spamming the buttons, which didn’t ask much of me and was a little more to be desired. With a pretty minimal upgrade tree and a few skill-based weapons, it didn't improve combat much, making the game rely heavily on parrying. As for stealth, it was simple but, thankfully to me, and probably only my opinion, just right since I wasn’t up for a stealth-heavy game. The UI worked well; it split everything up in a simple way you could easily maneuver through. Nothing was hard to understand, with no clutter, making it straightforward and appealing.
 
