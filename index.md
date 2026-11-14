@@ -6,14 +6,16 @@ body_class: wide-post
 ---
 
 <!-- Hero Section for Latest Post -->
+
 {% assign latest_post = site.posts.first %}
 <div class="hero-banner" style="margin-bottom: 30px;">
   <a href="{{ latest_post.url | relative_url }}" title="Read {{ latest_post.title }}">
-    <img src="{{ '(https://6af7a66789893ca61a9aff38.imgix.net/008.png)' | relative_url }}" 
+    <img src="https://6af7a66789893ca61a9aff38.imgix.net/008.png" 
          alt="{{ latest_post.title }}" 
          style="width: 100%; height: 250px; object-fit: cover; display: block;">
   </a>
 </div>
+
 
 <!-- Rest of your normal index content follows below -->
 
