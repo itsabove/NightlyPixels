@@ -8,6 +8,12 @@ body_class: wide-post
 <!-- Hero Section for Latest Post -->
 {% assign latest_post = site.posts.first %}
 <div class="hero-latest-post" style="border: 1px solid #ddd; padding: 20px; margin-bottom: 30px; background: #f9f9f9;">
+  
+  <!-- Custom Image: Change 'height: 250px' to your preferred size -->
+  <img src="{{ '/assets/images/my-custom-hero.jpg' | relative_url }}" 
+       alt="Latest Post Banner" 
+       style="width: 100%; height: 250px; object-fit: cover; margin-bottom: 15px;">
+
   <h2>Latest Post: <a href="{{ latest_post.url | relative_url }}">{{ latest_post.title }}</a></h2>
   <p><small>Published on {{ latest_post.date | date: "%B %d, %Y" }}</small></p>
   <p>{{ latest_post.excerpt }}</p>
