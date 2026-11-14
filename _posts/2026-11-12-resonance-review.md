@@ -15,6 +15,15 @@ tags: ["Review", "tag2"]
     <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" style="color: #5E787D; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
   </p>
 </div>
+   <div>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+    <img src="https://imgix.net" alt="Jose Balderas" style="width: 50px; height: auto; display: block; flex-shrink: 0;" />
+    <div>
+      <p style="margin: 0; font-weight: 900;">Jose Balderas</p>
+      <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">GT: II Above II</p>
+    </div>    
+  </div>
+  </div>
 <br>
 
 I’ve always avoided the Plague Tale series not because they didn’t interest me, but because I have a phobia of rodents, and, honestly, rats give me the ick. Thankfully, that’s not what Resonance is. It’s been a while since I played a game like this; lately I’ve been playing Forza, Gears, and other games different from this genre. What I can say is that, honestly, this game captivated me more than I imagined. At first I thought I'd drop this game after a couple of tries to get into it, but it stuck with me from the beginning, and after that, it was all I was dedicated to playing (I even dropped Gears E-Day multiplayer for it).
