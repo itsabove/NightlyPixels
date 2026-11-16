@@ -2,12 +2,7 @@
 layout: post
 title: "Resonance: A Plague Tale Legacy Review"
 date: 2026-11-11
-category: Reviews
-image: "https://nightlypixel.imgix.net/r02.png"
-description: "Plague Tale wasn't for me, but a game without rats? That's something I can get into."
 author: "Jose Balderas"
-author_image: "https://nightlypixel.imgix.net/writer.png"
-gamertag: "GT: II Above II"
 ---
 
 ![001](/assets/images/post/resonance/008.png)
