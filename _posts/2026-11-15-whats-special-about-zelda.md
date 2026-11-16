@@ -2,7 +2,7 @@
 layout: post
 title: "What's Special About Zelda"
 date: 2026-11-15
-category: posts 
+category: Features 
 image: "https://nightlypixel.imgix.net/nightlypixel/001.png"
 description: "Why is Zelda so beloved and what am I missing?"
 author: "Jose Balderas"
