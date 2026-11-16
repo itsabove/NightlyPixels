@@ -89,10 +89,9 @@ body_class: wide-post
   <div class="right-column">
     <div class="sidebar-box">
       <h3 style="margin-top: 0; color: #5E787D; border-bottom: 2px solid #1FBCF0; padding-bottom: 6px;">Table of Contents</h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
+      <ul style="list-style: none; list-style-type: none; padding-left: 0; margin: 0;">
         {% for post in articles limit: 10 %}
-          <li style="margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid #eee;">
-            <p style="font-size: 12px; color: #1FBCF0; margin: 0 0 2px 0;">{{ post.category }}</p>
+          <li style="list-style: none; background: none; padding-left: 0; margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid #eee;">
             <a href="{{ post.url | relative_url }}" style="color: #5E787D; font-weight: bold; text-decoration: none; display: block; line-height: 1.3;">
               {{ post.title }}
             </a>
