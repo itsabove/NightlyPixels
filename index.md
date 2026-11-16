@@ -43,16 +43,16 @@ body_class: wide-post
             <a href="{{ post.url | relative_url }}" style="color: #5E787D; text-decoration: none;">
               {{ post.title }}
             </a>
-          </p>   
+          </p>
           <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">
             {{ post.date | date: "%B %-d, %Y" }}
           </p>
           <p style="margin: 0;">{{ post.description }}</p>
         </div>
-      </div>    
-      
+      </div>
+
       <br>
-      
+
       <!-- Row 2: Author Image & Info -->
       <div>
         <div style="display: flex; align-items: center; gap: 15px;">
@@ -62,8 +62,8 @@ body_class: wide-post
             <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">
               {{ post.gamertag | default: "GT: II Above II" }}
             </p>
-          </div>    
-        </div> 
+          </div>
+        </div>
         <hr>
       </div>
     {% endfor %}
@@ -72,8 +72,16 @@ body_class: wide-post
   <!-- COLUMN 2: Automatic Table of Contents (Limited to 5) -->
   <div>
     <h4>Table of contents</h4>
-    {% for post in site.posts limit:5 %}
-      <p style="margin: 0 0 6px 0;">
+    <ul>
+      {% for post in site.posts limit:5 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
         <a href="{{ post.url | relative_url }}" style="color: #363636;">{{ post.title }}</a>
       </p>
     {% endfor %}
