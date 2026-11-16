@@ -13,7 +13,6 @@ author: "Jose Balderas"
   </p>
   <div style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2; color: #5E787D;">
     <h1><b>What's Special About Zelda</b></h1>
-    <h4 style="font-weight: 300; font-size: 10px;">First Published: November 15, 2026</h4>
 <br>    
     <h4 style="font-weight: 500; color: #5E787D;">"Is Zelda even for me?"</h4>
   </div>
