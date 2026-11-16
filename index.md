@@ -72,23 +72,22 @@ body_class: wide-post
 
 
     <!-- ==================== POST 2 START ==================== -->
-    <!-- NOTE: Copy everything from "POST 1 START" to "POST 1 END" and paste it here for your next post -->
     <div class="post-entry">
       
       <!-- Post Card (Thumbnail + Summary) -->
       <div class="post-card">
-        <a href="LINK-TO-SECOND-POST" class="post-card-image">
-          <img src="LINK-TO-SECOND-IMAGE" alt="Second Game Title" />
+        <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" class="post-card-image">
+          <img src="https://6af7a66789893ca61a9aff38.imgix.net/r02.png" alt="Resonance: A Plague Tale Legacy" />
         </a>
         <div class="post-card-text">
           <p style="font-size: 15px; font-weight: normal; margin: 0 0 4px 0;">
-            <a href="https://nightlypixel.com/pages/Reviews.html" style="color: #1FBCF0; text-decoration: none;">Category</a>
+            <a href="https://nightlypixel.com/pages/Reviews.html" style="color: #1FBCF0; text-decoration: none;">Reviews</a>
           </p>
           <p style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2;">
-            <a href="LINK-TO-SECOND-POST" style="color: #5E787D; text-decoration: none;">Second Post Title Goes Here</a>
+            <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" style="color: #5E787D; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
           </p>   
-          <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">November 16, 2026</p>
-          <p style="margin: 0;">Write your short summary snippet for the second post here.</p>
+          <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">November 11, 2026</p>
+          <p style="margin: 0;">Plague Tale wasn't for me, but a game without rats? That's something I can get into.</p>
         </div>
       </div>
 
