@@ -1,8 +1,13 @@
 ---
+layout: post
 title: "What's Special About Zelda"
-date: "2026-11-15"
+date: 2026-11-11
+category: Features 
+image: "https://nightlypixel.imgix.net/nightlypixel/001.png"
+description: "Why is Zelda so beloved and what am I missing?"
 author: "Jose Balderas"
-tags: ["Features", "Zelda"]
+author_image: "https://nightlypixel.imgix.net/writer.png"
+gamertag: "GT: II Above II"
 ---
 
 ![001](https://nightlypixel.imgix.net/nightlypixel/001.png)
