@@ -38,7 +38,7 @@ body_class: wide-post
       
       <!-- Post Card (Thumbnail + Summary) -->
       <div class="post-card">
-        <a href="/article/whats-special-about-zelda" class="post-card-image">
+        <a href="/article/whats-special-about-zelda.md" class="post-card-image">
           <img src="https://nightlypixel.imgix.net/nightlypixel/001.png" alt="Zelda fomo" />
         </a>
         <div class="post-card-text">
