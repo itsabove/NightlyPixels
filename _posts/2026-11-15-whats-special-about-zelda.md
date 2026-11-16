@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ""
+title: "What's Special About Zelda"
 date: 2026-11-15
-author: "Your Name"
+author: "Jose Balderas"
 ---
 
 ![001](https://nightlypixel.imgix.net/nightlypixel/001.png)
