@@ -40,7 +40,7 @@ gamertag: "GT: II Above II"
 
 With the release of *The Legend of Zelda: Ocarina of Time Remake*,  FOMO has been substantially greater compared to almost any game that’s been released this year.  Maybe it’s due to the fact that I never actually completed a single *Zelda* game in all my years of playing. Now, not finished isn’t the same thing as not played, and I have given the franchise a try on several occasions. I’ve played many titles, like *Oracle of Seasons*, *Windwaker*, and a few others for GameCube and Game Boy, as well as *Breath of the Wild*. Yet none seem to click for me, which begs the question: do I like this genre? Or is *Zelda* just not for me?
 
-<h1>What makes Zelda special</h1>
+<h1>What makes Zelda special?</h1>
 <br>
 
 I’ve asked myself whether this type of game is for me, and maybe it’s not. Looking at the list of *Zelda*-likes, I have to be honest with myself and say I haven’t played many of them. Titles like *Ōkami* show up often, as do other games I have never tried. The only game that shows up that I was a huge fan of is *Death’s Door*. I know 3D modern *Zelda* is different, but it sometimes gets compared to older titles like *A Link to the Past*, *Link's Awakening*, and *A Link Between Worlds*. 
