@@ -1,9 +1,17 @@
 ---
-layout: default
+layout: default 
 title: "What's Special About Zelda"
 date: 2026-11-15
+category: "Features"
+category_url: "https://nightlypixel.com/pages/Features.html"
+image: "https://nightlypixel.imgix.net/nightlypixel/001.png"
+image_alt: "Zelda fomo"
+summary: "Will Zelda be for me eventually, or is it time to throw in the towel?"
 author: "Jose Balderas"
+author_image: "https://6af7a66789893ca61a9aff38.imgix.net/writer.png"
+gamertag: "GT: II Above II"
 ---
+
 
 ![001](https://nightlypixel.imgix.net/nightlypixel/001.png)
 
