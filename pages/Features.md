@@ -10,5 +10,5 @@ layout: default
 <h4 align="center"><b>Table of Contents</b></h4>
 <br>
 <p style="text-align: center;">
-  <a href="/2026/11/12/resonance-review.html" style="color: #363636;">Resonance: A Plague Tale Legacy</a>
+  <a href="/article/whats-special-about-zelda.html" style="color: #363636;">What's Special About Zelda</a>
 </p>
