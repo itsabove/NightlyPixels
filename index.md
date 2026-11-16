@@ -26,7 +26,10 @@ body_class: wide-post
 <!-- Rest of your normal index content follows below -->
 
 <div class="two-columns-left-wide">
+  <!-- COLUMN 1 STARTS HERE -->
   <div>
+    
+    <!-- ================= FIRST POST START ================= -->
     <div class="post-card">
       <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" class="post-card-image">
         <img src="https://6af7a66789893ca61a9aff38.imgix.net/r02.png" alt="Resonance: A Plague Tale Legacy" />
@@ -42,9 +45,7 @@ body_class: wide-post
         <p style="margin: 0;">Plague Tale wasn't for me, but a game without rats? That's something I can get into.</p>
       </div>
     </div>    
-    <!-- First Post Ends -->
     <br>
-    <!-- Row 2: Author Image & Info -->
     <div>
       <div style="display: flex; align-items: center; gap: 15px;">
         <img src="https://6af7a66789893ca61a9aff38.imgix.net/writer.png" alt="Jose Balderas" style="width: 50px; height: auto; display: block; flex-shrink: 0;" />
@@ -55,42 +56,26 @@ body_class: wide-post
       </div> 
       <hr>
     </div>
-  </div>
-<!-- First Post Ends -->
-  <div>
+    <!-- ================= FIRST POST END ================= -->
+
+
+    <!-- ================= PASTE SECOND POST HERE ================= -->
     <div class="post-card">
-      <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" class="post-card-image">
-        <img src="https://6af7a66789893ca61a9aff38.imgix.net/r02.png" alt="Resonance: A Plague Tale Legacy" />
-      </a>
-      <div class="post-card-text">
-        <p style="font-size: 15px; font-weight: normal; margin: 0 0 4px 0;">
-          <a href="https://nightlypixel.com/pages/Reviews.html" style="color: #1FBCF0; text-decoration: none;">Reviews</a>
-        </p>
-        <p style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2;">
-          <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" style="color: #5E787D; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
-        </p>   
-        <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">November 11, 2026</p>
-        <p style="margin: 0;">Plague Tale wasn't for me, but a game without rats? That's something I can get into.</p>
-      </div>
-    </div>    
-    <!-- Second Post Ends -->
-    <br>
-    <!-- Row 2: Author Image & Info -->
-    <div>
-      <div style="display: flex; align-items: center; gap: 15px;">
-        <img src="https://6af7a66789893ca61a9aff38.imgix.net/writer.png" alt="Jose Balderas" style="width: 50px; height: auto; display: block; flex-shrink: 0;" />
-        <div>
-          <p style="margin: 0;"><b>Jose Balderas</b></p>
-          <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">GT: II Above II</p>
-        </div>    
-      </div> 
-      <hr>
+      <!-- New post image, title, date, and summary -->
     </div>
-  </div>
-<!-- Second Post Ends -->
+    <br>
+    <div>
+      <!-- New post author info & <hr> -->
+    </div>
+    <!-- ================= SECOND POST END ================= -->
+
+  </div> 
+  <!-- COLUMN 1 ENDS HERE -->
+
+  <!-- COLUMN 2 STARTS HERE -->
   <div>
     <h4>Table of contents</h4>
     <a href="/2026/11/12/resonance-review.html" style="color: #363636;">Resonance: A Plague Tale Legacy</a>
   </div>
+  <!-- COLUMN 2 ENDS HERE -->
 </div>
-
