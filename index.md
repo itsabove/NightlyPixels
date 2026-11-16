@@ -6,27 +6,21 @@ body_class: wide-post
 ---
 
 <!-- Hero Section for Latest Post in a Subfolder -->
-
-{% assign folder_posts = site.posts | where_exp: "post", "post.path contains 'article/'" %}
-{% assign latest_post = folder_posts.first %}
-
-{% if latest_post %}
+{% assign latest_post = site.posts.first %}
 <div class="hero-banner" style="position: relative; margin-bottom: 30px; width: 100%; height: 250px; overflow: hidden;">
   <a href="{{ latest_post.url | relative_url }}" title="Read {{ latest_post.title }}" style="display: block; width: 100%; height: 100%; text-decoration: none;">
     
-    <img src="{{ latest_post.image | default: 'https://nightlypixel.imgix.net/nightlypixel/001.png' }}" 
-         alt="{{ latest_post.title }}" 
+    <img src="https://nightlypixel.imgix.net/nightlypixel/001.png" 
+         alt="Hero Banner" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center 20%; display: block;">
 
     <!-- Custom Text Overlay -->
     <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.15) 60%, transparent 100%); display: flex; flex-direction: column; justify-content: flex-end; padding: 20px; box-sizing: border-box;">
-      <h2 style="color: #ffffff; margin: 0; font-size: 24px; line-height: 1.2; text-shadow: 1px 1px 3px rgba(0,0,0,0.8);">{{ latest_post.title }}</h2>
+      <h2 style="color: #ffffff; margin: 0; font-size: 24px; line-height: 1.2; text-shadow: 1px 1px 3px rgba(0,0,0,0.8);">No Rats? Sounds Like A Game For Me</h2>
     </div>
 
   </a>
 </div>
-{% endif %}
-
 <!-- Rest of your normal index content follows below -->
 
 
