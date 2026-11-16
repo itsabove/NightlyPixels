@@ -6,6 +6,7 @@ body_class: wide-post
 ---
 
 <!-- Hero Section for Latest Post in a Subfolder -->
+
 {% assign folder_posts = site.posts | where_exp: "post", "post.path contains 'article/'" %}
 {% assign latest_post = folder_posts.first %}
 
@@ -13,7 +14,7 @@ body_class: wide-post
 <div class="hero-banner" style="position: relative; margin-bottom: 30px; width: 100%; height: 250px; overflow: hidden;">
   <a href="{{ latest_post.url | relative_url }}" title="Read {{ latest_post.title }}" style="display: block; width: 100%; height: 100%; text-decoration: none;">
     
-    <img src="{{ latest_post.image | default: 'https://imgix.net' }}" 
+    <img src="{{ latest_post.image | default: 'https://nightlypixel.imgix.net/nightlypixel/001.png' }}" 
          alt="{{ latest_post.title }}" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center 20%; display: block;">
 
