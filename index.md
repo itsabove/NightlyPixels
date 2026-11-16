@@ -38,12 +38,12 @@ body_class: wide-post
       
       <!-- Post Card (Thumbnail + Summary) -->
       <div class="post-card">
-        <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" class="post-card-image">
-          <img src="/posts/2026-11-15-whats-special-about-zelda.md" alt="Resonance: A Plague Tale Legacy" />
+        <a href="/posts/2026-11-15-whats-special-about-zelda.md" class="post-card-image">
+          <img src="https://nightlypixel.imgix.net/nightlypixel/001.png" alt="Zelda fomo" />
         </a>
         <div class="post-card-text">
           <p style="font-size: 15px; font-weight: normal; margin: 0 0 4px 0;">
-            <a href="https://nightlypixel.com/pages/Reviews.html" style="color: #1FBCF0; text-decoration: none;">Reviews</a>
+            <a href="https://nightlypixel.com/pages/Features.html" style="color: #1FBCF0; text-decoration: none;">Features</a>
           </p>
           <p style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2;">
             <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" style="color: #5E787D; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
