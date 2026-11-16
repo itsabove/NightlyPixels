@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default 
 title: "Resonance: A Plague Tale Legacy Review"
 date: 2026-11-11
 author: "Jose Balderas"
