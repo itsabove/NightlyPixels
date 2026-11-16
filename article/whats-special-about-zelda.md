@@ -30,7 +30,7 @@ author: "Jose Balderas"
 <br>
 
 
-With the release of The Legend of Zelda: Ocarina of Time Remake,  FOMO has been substantially greater compared to almost any game that’s been released this year.  Maybe it’s due to the fact that I never actually completed a single Zelda game in all my years of playing. Now, not finished isn’t the same thing as not played, and I have given the franchise a try on several occasions. I’ve played many titles, like Oracle of Seasons, Windwaker, and a few others for GameCube and Game Boy, as well as Breath of the Wild. Yet none seem to click for me, which begs the question: do I like this genre? Or is Zelda just not for me?
+With the release of *The Legend of Zelda: Ocarina of Time Remake*,  FOMO has been substantially greater compared to almost any game that’s been released this year.  Maybe it’s due to the fact that I never actually completed a single Zelda game in all my years of playing. Now, not finished isn’t the same thing as not played, and I have given the franchise a try on several occasions. I’ve played many titles, like Oracle of Seasons, Windwaker, and a few others for GameCube and Game Boy, as well as Breath of the Wild. Yet none seem to click for me, which begs the question: do I like this genre? Or is Zelda just not for me?
 
 <h1>What makes Zelda special</h1>
 
