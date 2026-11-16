@@ -127,7 +127,7 @@ body_class: wide-post
     </p>
     <!-- NOTE: Add new sidebar links right below here -->
     <p style="margin: 0 0 8px 0;">
-      <a href="LINK-TO-SECOND-POST" style="color: #363636;">Second Post Title</a>
+      <a href="/article/whats-special-about-zelda.html" style="color: #363636;">What's Special About Zelda</a>
     </p>
   </div>
   <!-- END OF COLUMN 2 (RIGHT) -->
