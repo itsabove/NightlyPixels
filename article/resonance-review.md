@@ -13,7 +13,6 @@ author: "Jose Balderas"
   </p>
   <div style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2; color: #5E787D;">
     <h1><b>Resonance: A Plague Tale Legacy Review</b></h1>
-    <h4 style="font-weight: 300; font-size: 10px;">First Published: November 11, 2026</h4>
 <br>    
     <h4 style="font-weight: 500; color: #5E787D;">"Ahh no rats"</h4>
   </div>
@@ -48,6 +47,10 @@ Unfortunately, the part that fell a little bit flat for me was the combat in its
 I played this game on my Xbox Series X, so the quality I can provide is only for this console. This game was wonderful and looked beautiful every step of the way. I played on performance mode over quality, and even then I didn’t run into a problem; nothing ruined my experience. As for the graphics, I was left speechless by this team; it’s one of the nicest games I’ve seen in a while, aside from the graphical showcase that Gears E-Day has been, but they really hit it out of the park with the way it looks and plays.
 
 ![001](https://6af7a66789893ca61a9aff38.imgix.net/Nightlypixel/images/r03.png)
+
+<br>
+<br>
+  <h4 style="font-weight: 100; font-size: 12px;">First Published: November 11, 2026</h4>
 
 Overall, this game hits the mark for me as one of the better games to come out this year, with a great story and beautiful graphics. Resonance was so good that I’d recommend you give it a try. I didn’t feel like my knowledge of the previous ones made much difference, but as my intro to this series, it was a good place to jump in without feeling like I missed important information. Maybe I did. Who knows? I sure won’t until I get around to playing the others, and honestly, now I am interested in giving those a try.
 
