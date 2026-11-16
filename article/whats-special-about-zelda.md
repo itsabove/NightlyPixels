@@ -8,7 +8,7 @@ image: "https://nightlypixel.imgix.net/nightlypixel/001.png"
 image_alt: "Zelda fomo"
 summary: "Will Zelda be for me eventually, or is it time to throw in the towel?"
 author: "Jose Balderas"
-author_image: "https://6af7a66789893ca61a9aff38.imgix.net/writer.png"
+author_image: "https://nightlypixel.imgix.net/writer.png"
 gamertag: "GT: II Above II"
 ---
 
