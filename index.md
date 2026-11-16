@@ -7,7 +7,7 @@ body_class: wide-post
 
 <!-- Hero Section for Latest Post in a Subfolder -->
 {% assign latest_post = site.posts.first %}
-<div class="hero-banner" style="position: relative; margin-bottom: 30px; width: 100%; height: 250px; overflow: hidden;">
+<div class="hero-banner" style="position: relative; margin-bottom: 30px; width: 100%; height: 300px; overflow: hidden;">
   <a href="{{ latest_post.url | relative_url }}" title="Read {{ latest_post.title }}" style="display: block; width: 100%; height: 100%; text-decoration: none;">
     
     <img src="https://nightlypixel.imgix.net/nightlypixel/001.png" 
