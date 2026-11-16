@@ -108,6 +108,9 @@ body_class: wide-post
     </div>
     <!-- ==================== POST 2 END ====================== -->
 
+
+
+    <!-- ==================== POST 3 START ==================== -->
     <!-- NOTE: Paste Post 3 right below this line, BEFORE the closing </div> of the left-column -->
 
   </div> 
