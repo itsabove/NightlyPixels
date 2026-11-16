@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "What's Special About Zelda"
 date: 2026-11-15
 author: "Jose Balderas"
