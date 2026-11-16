@@ -8,15 +8,15 @@ body_class: wide-post
 <!-- Hero Section for Latest Post in a Subfolder -->
 {% assign latest_post = site.posts.first %}
 <div class="hero-banner" style="position: relative; margin-bottom: 30px; width: 100%; height: 300px; overflow: hidden;">
-  <a href="/article/whats-special-about-zelda.html" title="Read {{ latest_post.title }}" style="display: block; width: 100%; height: 100%; text-decoration: none;">
+  <a href="/article/resonance-review.html" title="Read {{ latest_post.title }}" style="display: block; width: 100%; height: 100%; text-decoration: none;">
     
-    <img src="https://nightlypixel.imgix.net/nightlypixel/001.png" 
+    <img src="https://nightlypixel.imgix.net/r02.png" 
          alt="Hero Banner" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center 50%; display: block;">
 
     <!-- Custom Text Overlay -->
     <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.15) 60%, transparent 100%); display: flex; flex-direction: column; justify-content: flex-end; padding: 20px; box-sizing: border-box;">
-      <h2 style="color: #ffffff; margin: 0; font-size: 24px; line-height: 1.2; text-shadow: 1px 1px 3px rgba(0,0,0,0.8);">Is Zelda For Me?</h2>
+      <h2 style="color: #ffffff; margin: 0; font-size: 24px; line-height: 1.2; text-shadow: 1px 1px 3px rgba(0,0,0,0.8);">Resonance: A Plague Tale Legacy Review</h2>
     </div>
 
   </a>
