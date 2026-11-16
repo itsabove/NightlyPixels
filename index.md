@@ -12,7 +12,7 @@ body_class: wide-post
     
     <img src="https://nightlypixel.imgix.net/nightlypixel/001.png" 
          alt="Hero Banner" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%; display: block;">
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center 50%; display: block;">
 
     <!-- Custom Text Overlay -->
     <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.15) 60%, transparent 100%); display: flex; flex-direction: column; justify-content: flex-end; padding: 20px; box-sizing: border-box;">
