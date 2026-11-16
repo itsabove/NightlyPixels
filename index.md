@@ -39,7 +39,7 @@ body_class: wide-post
       <!-- Post Card (Thumbnail + Summary) -->
       <div class="post-card">
         <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" class="post-card-image">
-          <img src="https://6af7a66789893ca61a9aff38.imgix.net/r02.png" alt="Resonance: A Plague Tale Legacy" />
+          <img src="/posts/2026-11-15-whats-special-about-zelda.md" alt="Resonance: A Plague Tale Legacy" />
         </a>
         <div class="post-card-text">
           <p style="font-size: 15px; font-weight: normal; margin: 0 0 4px 0;">
