@@ -86,7 +86,7 @@ body_class: wide-post
   <!-- ========================================== -->
   <div class="right-column">
     <div class="sidebar-box">
-      <h3 style="margin-top: 0; color: #5E787D; border-bottom: 2px solid #1FBCF0; padding-bottom: 6px;">Latest Articles</h3>
+      <h3 style="margin-top: 0; color: #5E787D; border-bottom: 2px solid #1FBCF0; padding-bottom: 6px;">Table Of Content</h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
         {% for post in articles %}
           {% unless post.name == "index.html" or post.name == "index.md" %}
