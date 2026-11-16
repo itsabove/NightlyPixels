@@ -38,7 +38,7 @@ body_class: wide-post
       
       <!-- Post Card (Thumbnail + Summary) -->
       <div class="post-card">
-        <a href="/article/whats-special-about-zelda.md" class="post-card-image">
+        <a href="/article/whats-special-about-zelda.html" class="post-card-image">
           <img src="https://nightlypixel.imgix.net/nightlypixel/001.png" alt="Zelda fomo" />
         </a>
         <div class="post-card-text">
@@ -46,10 +46,10 @@ body_class: wide-post
             <a href="https://nightlypixel.com/pages/Features.html" style="color: #1FBCF0; text-decoration: none;">Features</a>
           </p>
           <p style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2;">
-            <a href="https://nightlypixel.com/2026/11/12/resonance-review.html" style="color: #5E787D; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
+            <a href="/article/whats-special-about-zelda.html" style="color: #5E787D; text-decoration: none;">What's Special About Zelda</a>
           </p>   
           <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">November 11, 2026</p>
-          <p style="margin: 0;">Plague Tale wasn't for me, but a game without rats? That's something I can get into.</p>
+          <p style="margin: 0;">Will Zelda be for me eventually, or is it time to throw in the towel?</p>
         </div>
       </div>
 
