@@ -23,6 +23,9 @@ body_class: wide-post
 </div>
 <!-- Rest of your normal index content follows below -->
 
+<!-- ========================================== -->
+<!-- Page Starts Under Here           -->
+<!-- ========================================== -->
 
 <div class="two-columns-left-wide">
 
@@ -31,103 +34,76 @@ body_class: wide-post
   <!-- ========================================== -->
   <div class="left-column">
 
-    <!-- ==================== POST 1 START ==================== -->
-    <div class="post-entry">
+    {% assign articles = site.pages | where_exp: "item", "item.path contains 'article/'" | sort: "date" | reverse %}
+    
+    {% for post in articles %}
+      {% unless post.name == "index.html" or post.name == "index.md" %}
       
-      <!-- Post Card (Thumbnail + Summary) -->
-      <div class="post-card">
-        <a href="/article/whats-special-about-zelda.html" class="post-card-image">
-          <img src="https://nightlypixel.imgix.net/nightlypixel/001.png" alt="Zelda fomo" />
-        </a>
-        <div class="post-card-text">
-          <p style="font-size: 15px; font-weight: normal; margin: 0 0 4px 0;">
-            <a href="https://nightlypixel.com/pages/Features.html" style="color: #1FBCF0; text-decoration: none;">Features</a>
-          </p>
-          <p style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2;">
-            <a href="/article/whats-special-about-zelda.html" style="color: #5E787D; text-decoration: none;">What's Special About Zelda</a>
-          </p>   
-          <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">November 11, 2026</p>
-          <p style="margin: 0;">Will Zelda be for me eventually, or is it time to throw in the towel?</p>
+      <div class="post-entry">
+        
+        <!-- Post Card (Thumbnail + Summary) -->
+        <div class="post-card">
+          <a href="{{ post.url | relative_url }}" class="post-card-image">
+            <img src="{{ post.image }}" alt="{{ post.image_alt | default: post.title }}" />
+          </a>
+          <div class="post-card-text">
+            <p style="font-size: 15px; font-weight: normal; margin: 0 0 4px 0;">
+              <a href="{{ post.category_url }}" style="color: #1FBCF0; text-decoration: none;">{{ post.category }}</a>
+            </p>
+            <p style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2;">
+              <a href="{{ post.url | relative_url }}" style="color: #5E787D; text-decoration: none;">{{ post.title }}</a>
+            </p>   
+            <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">{{ post.date | date: "%B %-d, %Y" }}</p>
+            <p style="margin: 0;">{{ post.summary }}</p>
+          </div>
         </div>
-      </div>
 
-      <br>
+        <br>
 
-      <!-- Author Info & Divider -->
-      <div class="post-author">
-        <div style="display: flex; align-items: center; gap: 15px;">
-          <img src="https://6af7a66789893ca61a9aff38.imgix.net/writer.png" alt="Jose Balderas" style="width: 50px; height: auto; display: block; flex-shrink: 0;" />
-          <div>
-            <p style="margin: 0;"><b>Jose Balderas</b></p>
-            <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">GT: II Above II</p>
-          </div>    
-        </div> 
-        <hr>
-      </div>
-
-    </div>
-    <!-- ==================== POST 1 END ====================== -->
-
-
-    <!-- ==================== POST 2 START ==================== -->
-    <div class="post-entry">
-      
-      <!-- Post Card (Thumbnail + Summary) -->
-      <div class="post-card">
-        <a href="/article/resonance-review.html" class="post-card-image">
-          <img src="https://6af7a66789893ca61a9aff38.imgix.net/r02.png" alt="Resonance: A Plague Tale Legacy" />
-        </a>
-        <div class="post-card-text">
-          <p style="font-size: 15px; font-weight: normal; margin: 0 0 4px 0;">
-            <a href="https://nightlypixel.com/pages/Reviews.html" style="color: #1FBCF0; text-decoration: none;">Reviews</a>
-          </p>
-          <p style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2;">
-            <a href="/article/resonance-review.html" style="color: #5E787D; text-decoration: none;">Resonance: A Plague Tale Legacy Review</a>
-          </p>   
-          <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">November 11, 2026</p>
-          <p style="margin: 0;">The first two Plague Tales weren't for me, but a game without rats? That's something I can get into.</p>
+        <!-- Author Info & Divider -->
+        <div class="post-author">
+          <div style="display: flex; align-items: center; gap: 15px;">
+            <img src="{{ post.author_image | default: 'https://imgix.net' }}" alt="{{ post.author | default: 'Jose Balderas' }}" style="width: 50px; height: auto; display: block; flex-shrink: 0;" />
+            <div>
+              <p style="margin: 0;"><b>{{ post.author | default: "Jose Balderas" }}</b></p>
+              <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">{{ post.gamertag | default: "GT: II Above II" }}</p>
+            </div>    
+          </div> 
+          <hr>
         </div>
+
       </div>
 
-      <br>
+      {% endunless %}
+    {% endfor %}
 
-      <!-- Author Info & Divider -->
-      <div class="post-author">
-        <div style="display: flex; align-items: center; gap: 15px;">
-          <img src="https://6af7a66789893ca61a9aff38.imgix.net/writer.png" alt="Jose Balderas" style="width: 50px; height: auto; display: block; flex-shrink: 0;" />
-          <div>
-            <p style="margin: 0;"><b>Jose Balderas</b></p>
-            <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">GT: II Above II</p>
-          </div>    
-        </div> 
-        <hr>
-      </div>
-
-    </div>
-    <!-- ==================== POST 2 END ====================== -->
-
-
-
-    <!-- ==================== POST 3 START ==================== -->
-    <!-- NOTE: Paste Post 3 right below this line, BEFORE the closing </div> of the left-column -->
-
-  </div> 
-  <!-- END OF COLUMN 1 (LEFT) -->
+  </div>
+  <!-- COLUMN 1 END -->
 
 
   <!-- ========================================== -->
   <!-- COLUMN 2: SIDEBAR / TABLE OF CONTENTS      -->
   <!-- ========================================== -->
   <div class="right-column">
-    <h4>Table of contents</h4>
-    <p style="margin: 0 0 8px 0;">
-      <a href="/2026/11/12/resonance-review.html" style="color: #363636;">Resonance: A Plague Tale Legacy</a>
-    </p>
-    <!-- NOTE: Add new sidebar links right below here -->
-    <p style="margin: 0 0 8px 0;">
-      <a href="/article/whats-special-about-zelda.html" style="color: #363636;">What's Special About Zelda</a>
-    </p>
+    <div class="sidebar-box">
+      <h3 style="margin-top: 0; color: #5E787D; border-bottom: 2px solid #1FBCF0; padding-bottom: 6px;">Latest Articles</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        {% for post in articles %}
+          {% unless post.name == "index.html" or post.name == "index.md" %}
+          <li style="margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid #eee;">
+            <p style="font-size: 12px; color: #1FBCF0; margin: 0 0 2px 0;">{{ post.category }}</p>
+            <a href="{{ post.url | relative_url }}" style="color: #5E787D; font-weight: bold; text-decoration: none; display: block; line-height: 1.3;">
+              {{ post.title }}
+            </a>
+            <span style="font-size: 10px; font-weight: 200; color: #888;">{{ post.date | date: "%B %-d, %Y" }}</span>
+          </li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    </div>
   </div>
-  <!-- END OF COLUMN 2 (RIGHT) -->
+  <!-- COLUMN 2 END -->
 
 </div>
+
+
