@@ -34,11 +34,15 @@ body_class: wide-post
   <!-- ========================================== -->
   <div class="left-column">
 
-    {% assign articles = site.pages | where_exp: "item", "item.path contains 'article/'" | sort: "date" | reverse %}
+    {% assign raw_articles = site.pages | where_exp: "item", "item.path contains 'article/'" | sort: "date" | reverse %}
+    {% assign articles = "" | split: "" %}
+    {% for item in raw_articles %}
+      {% unless item.name == "index.html" or item.name == "index.md" %}
+        {% assign articles = articles | push: item %}
+      {% endunless %}
+    {% endfor %}
     
-    {% for post in articles %}
-      {% unless post.name == "index.html" or post.name == "index.md" %}
-      
+    {% for post in articles limit: 10 %}
       <div class="post-entry">
         
         <!-- Post Card (Thumbnail + Summary) -->
@@ -73,8 +77,6 @@ body_class: wide-post
         </div>
 
       </div>
-
-      {% endunless %}
     {% endfor %}
 
   </div>
@@ -86,18 +88,15 @@ body_class: wide-post
   <!-- ========================================== -->
   <div class="right-column">
     <div class="sidebar-box">
-      <h3 style="margin-top: 0; color: #5E787D; border-bottom: 2px solid #1FBCF0; padding-bottom: 6px;">Table Of Content</h3>
+      <h3 style="margin-top: 0; color: #5E787D; border-bottom: 2px solid #1FBCF0; padding-bottom: 6px;">Table of Contents</h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
-        {% for post in articles %}
-          {% unless post.name == "index.html" or post.name == "index.md" %}
+        {% for post in articles limit: 10 %}
           <li style="margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid #eee;">
             <p style="font-size: 12px; color: #1FBCF0; margin: 0 0 2px 0;">{{ post.category }}</p>
             <a href="{{ post.url | relative_url }}" style="color: #5E787D; font-weight: bold; text-decoration: none; display: block; line-height: 1.3;">
               {{ post.title }}
             </a>
-            <span style="font-size: 10px; font-weight: 200; color: #888;">{{ post.date | date: "%B %-d, %Y" }}</span>
           </li>
-          {% endunless %}
         {% endfor %}
       </ul>
     </div>
