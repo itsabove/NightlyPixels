@@ -10,6 +10,7 @@ summary: "A great podcast game, where you can enjoy other things while you compl
 author: "Jose Balderas"
 author_image: "https://nightlypixel.imgix.net/writer.png"
 gamertag: "GT: II Above II"
+tags: [Review]
 ---
 
 
