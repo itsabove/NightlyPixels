@@ -35,7 +35,7 @@ gamertag: "GT: II Above II"
     </div> 
 
     
-Times when games just aren't on the menu, and even after browsing your backlog, nothing calls to you, leaving you in a state of limbo where you don’t know what to play. That’s what happened to me recently as I was working on this website; I was finding games unappealing, not knowing what to play in my endless list of unplayed games. I needed something I could mindlessly do while I was busy with other stuff, and that’s when I found Tidy up the flower shop* and *Tidy up the Halloween shop. 
+Times when games just aren't on the menu, and even after browsing your backlog, nothing calls to you, leaving you in a state of limbo where you don’t know what to play. That’s what happened to me recently as I was working on this website; I was finding games unappealing, not knowing what to play in my endless list of unplayed games. I needed something I could mindlessly do while I was busy with other stuff, and that’s when I found *Tidy up the flower shop* and *Tidy up the Halloween shop*. 
 
 Now, this game is self-explanatory; it’s you cleaning up a shop. Obviously, the flower shop consists of you picking up and organizing the flowers in the store, and as for the Halloween shop, it has a bunch of different little trinkets that you have to sort out, Halloween-themed. Unfortunately, I do have to point out that this game uses generative AI, and although it was a pleasant game that I devoted time to and completed fully, it’s still not something I want to keep seeing in the gaming space. 
 
