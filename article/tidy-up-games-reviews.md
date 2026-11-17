@@ -20,9 +20,9 @@ gamertag: "GT: II Above II"
     <a href="/pages/Reviews" style="color: #1FBCF0; text-decoration: none;">Reviews</a>
   </p>
   <div style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2; color: #5E787D;">
-    <h1><b>What's Special About Zelda?</b></h1>
+    <h1><b>Tidy Up Games Review</b></h1>
 <br>    
-    <h4 style="font-weight: 500; color: #5E787D;">"Tidy Up Games Review"</h4>
+    <h4 style="font-weight: 500; color: #5E787D;">"Clean up, clean up"</h4>
   </div>
 </div>
 <br>
@@ -39,7 +39,7 @@ gamertag: "GT: II Above II"
     
 Times when games just aren't on the menu, and even after browsing your backlog, nothing calls to you, leaving you in a state of limbo where you don’t know what to play. That’s what happened to me recently as I was working on this website; I was finding games unappealing, not knowing what to play in my endless list of unplayed games. I needed something I could mindlessly do while I was busy with other stuff, and that’s when I found *Tidy up the flower shop* and *Tidy up the Halloween shop*. 
 
-<h4><b>Tidy Up The Whole Place</b></h4>
+<h1>Spending time cleaning</h1>
 <br>
 Now, this game is self-explanatory; it’s you cleaning up a shop. Obviously, the flower shop consists of you picking up and organizing the flowers in the store, and as for the Halloween shop, it has a bunch of different little trinkets that you have to sort out, Halloween-themed. Unfortunately, I do have to point out that this game uses generative AI, and although it was a pleasant game that I devoted time to and completed fully, it’s still not something I want to keep seeing in the gaming space. 
 
