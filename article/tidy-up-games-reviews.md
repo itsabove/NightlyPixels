@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: "Tidy Up Game Review"
-date: 2026-11-15
+date: 2026-11-16
 category: "Reviews"
 category_url: "https://nightlypixel.com/pages/Reviews.html"
 image: "https://nightlypixel.imgix.net/nightlypixel/tu_02.png"
