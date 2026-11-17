@@ -51,5 +51,8 @@ Since *Death’s Door* is the only game I have in common with most of the list, 
 
 I wrote this post to see whether I'm going to try to play this remake, which I probably won’t. I don’t currently have a Switch 2, and I haven’t been compelled to buy one if not for this game. I haven’t been interested in any other Nintendo game that’s exclusive enough to make it worth purchasing. I have plenty of other ways to play previous *Zelda* games; I might try to play some of the older titles instead, maybe it gets rid of the FOMO, or maybe it turns me away from *Zelda* in general. All I can say is that the buzz for this Remake has made me really interested in this franchise again, enough to make me want to give it another shot, and to me, that’s a sign of something magical that this game has. 
 
+<br>
+<br>
+<h4 style="font-weight: 100; font-size: 12px;">First Published: November 15, 2026</h4>
 
 
