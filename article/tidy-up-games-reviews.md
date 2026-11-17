@@ -33,7 +33,9 @@ gamertag: "GT: II Above II"
       <p style="margin: 0; font-weight: 900;">Jose Balderas</p>
       <p style="font-size: 10px; font-weight: 200; margin: 0 0 8px 0; line-height: 1.2;">GT: II Above II</p>
     </div> 
-
+  </div>
+ </div>
+<br>
     
 Times when games just aren't on the menu, and even after browsing your backlog, nothing calls to you, leaving you in a state of limbo where you don’t know what to play. That’s what happened to me recently as I was working on this website; I was finding games unappealing, not knowing what to play in my endless list of unplayed games. I needed something I could mindlessly do while I was busy with other stuff, and that’s when I found *Tidy up the flower shop* and *Tidy up the Halloween shop*. 
 
