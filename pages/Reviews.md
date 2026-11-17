@@ -10,7 +10,7 @@ layout: default
 <h4 align="center"><b>Table of Contents</b></h4>
 <br>
 <p style="text-align: center;">
-  <a href="/article/resonance-review.html" style="color: #363636;">What's Special About Zelda?a>
+  <a href="/article/resonance-review.html" style="color: #363636;">Resonance: A Plague Tale Legacy Review</a>
   <p style="text-align: center;">
-  <a href="/article/tidy-up-games-reviews.html" style="color: #363636;">What's Special About Zelda?a>
+  <a href="/article/tidy-up-games-reviews.html" style="color: #363636;">Tidy Up Games Review</a>
 </p>
