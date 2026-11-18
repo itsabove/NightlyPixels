@@ -7,6 +7,12 @@ body {
   background: #ffffff;
 }
 
+#container {
+  min-height: 595px;
+  background: #ffffff;
+}
+
+
 /* Expand the container only on pages with the full-width-page class */
 body.full-width-page .inner {
   max-width: 95%;
