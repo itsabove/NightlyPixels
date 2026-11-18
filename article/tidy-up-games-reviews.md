@@ -48,6 +48,8 @@ Now, this game is self-explanatory; it’s you cleaning up a shop. Obviously, th
 
 Even with some unpleasantness with the whole AI stuff, this game ran pretty smoothly and was exactly what I needed at the time. Who knew sorting items and putting them on shelves would be compelling enough to keep me busy for 10 hours while I worked on this website to post this Review. It’s not an in-depth review, but the game was ok for the price at $6 each; it’s worth it, but the truth is the game has a slight stain on it now, so I would say wait for a sale, but it’s a decent buy if you’re trying to get out of a funk and play something while you have your main attention on something else.
 
+![001](/assets/images/post/tidy-up-review/Ratingtu.png)
+
 <br>
 <br>
 <h4 style="font-weight: 100; font-size: 12px;">First Published: November 16, 2026</h4>
