@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Nightly Pixel"
+title: "Gallery"
 full_width: true
 body_class: wide-post
 ---
