@@ -12,7 +12,12 @@ body_class: wide-post
 <div class="two-columns">
   <div class="column">
     <h3>Column 1</h3>
-    <p>Left side content goes here.</p>
+    <div class="image-grid-3">
+     <img src="/assets/img/photo1.jpg" alt="Image 1">
+     <img src="/assets/img/photo2.jpg" alt="Image 2">
+     <img src="/assets/img/photo3.jpg" alt="Image 3">
+    </div>
+
   </div>
   <div class="column">
     <h3>Column 2</h3>
