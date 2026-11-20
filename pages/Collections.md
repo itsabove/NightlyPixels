@@ -1,4 +1,4 @@
---
+---
 layout: default
 title: "Gallery"
 full_width: true
