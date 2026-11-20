@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "Nightly Pixel"
+full_width: true
+body_class: wide-post
 ---
 
 <h1 align="center"><b>Reviews</b></h1>
