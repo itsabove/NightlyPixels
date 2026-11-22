@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "What's Special About Zelda?"
+title: "Forever Ago Review"
 date: 2026-11-22
 category: "Features"
 category_url: "https://nightlypixel.com/pages/Features.html"
