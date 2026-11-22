@@ -1,6 +1,6 @@
 
 
-![001](/assets/images/post/resonance/008.png)
+![001](/assets/images/post/forever-ago/FA_01.webp)
 
 <div style="text-align: center;">
   <p style="font-size: 15px; font-weight: 900; margin: 0 0 4px 0;">
