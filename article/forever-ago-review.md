@@ -12,7 +12,6 @@ author_image: "https://nightlypixel.imgix.net/writer.png"
 gamertag: "GT: II Above II"
 ---
 
-
 ![001](/assets/images/post/forever-ago/FA_01.webp)
 
 <div style="text-align: center;">
