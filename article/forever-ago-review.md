@@ -40,14 +40,13 @@ I wasn’t ready for the emotional rollercoaster that Forever Ago became for me.
 
 Forever Ago might be a walking simulator that, at times, might feel like it’s taking a little too long to get from point A to B, but that didn’t stop me from enjoying this rich story that had me emotionally invested. It evoked my love for my wife and the loss of my mother, but the story is so rich you don’t mind getting sucked into it. 
 
-<h1>A Walking Simulator With A Heavy Emphasis On Story</h1>
+<h1><b>A Walking Simulator With A Heavy Emphasis On Story</b></h1>
 <br>
 
 I’m a big fan of walking simulators; I just don’t play them as often. Games like What Remains of Edith Finch and Life is Strange, you could say that even the most recent Resonance: A Plague Tale Legacy fits the mold as well, even tho that last example is more action-filled. They all share a heavy story focus, which is true here as well. Yes, you could say most of the game you’re pushing the joystick forward, but that can’t take away from the tonal changes and the story development that are grasping at your emotions, and doing a great job at it as well. 
 
 
-<br>
-<h4>Slow steps and hidden barriers</h4>
+<h1><b>Slow steps and hidden barriers</b></h1>
 <br>
 
 My main gripe with the game was the slow walking pace. Look, I understand Alfred is an older man, but the pace you walk at made every move to your next objective feel slow at times. I would hit a barrier and have to backtrack a little, which made my time feel a bit more drawn out and, in a way, slightly put me off exploring every edge of this game at the start.
