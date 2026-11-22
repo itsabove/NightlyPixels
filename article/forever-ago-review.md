@@ -4,7 +4,7 @@ title: "What's Special About Zelda?"
 date: 2026-11-22
 category: "Features"
 category_url: "https://nightlypixel.com/pages/Features.html"
-image: "https://nightlypixel.imgix.net/nightlypixel/001.png"
+image: "/assets/images/post/forever-ago/FA_01.webp"
 image_alt: "Zelda fomo"
 summary: "Will Zelda be for me eventually, or is it time to throw in the towel?"
 author: "Jose Balderas"
