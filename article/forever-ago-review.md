@@ -1,12 +1,12 @@
 ---
-layout: default
-title: "Forever Ago Review"
+layout: default 
+title: "What's Special About Zelda?"
 date: 2026-11-22
-category: "Reviews"
-category_url: "https://nightlypixel.com/pages/Reviews.html"
-image: "/assets/images/post/forever-ago/FA_01.webp"
-image_alt: "Forever Ago Review"
-summary: "Relive your love with your sweetheart Audrey, capture memories, solve small puzzles, and build friendships on an unforgettable road trip."
+category: "Features"
+category_url: "https://nightlypixel.com/pages/Features.html"
+image: "https://nightlypixel.imgix.net/nightlypixel/001.png"
+image_alt: "Zelda fomo"
+summary: "Will Zelda be for me eventually, or is it time to throw in the towel?"
 author: "Jose Balderas"
 author_image: "https://nightlypixel.imgix.net/writer.png"
 gamertag: "GT: II Above II"
