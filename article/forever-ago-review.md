@@ -1,3 +1,16 @@
+---
+layout: default 
+title: "Forever Ago Review"
+date: 2026-11-22
+category: "Reviews"
+category_url: "https://nightlypixel.com/pages/Reviews.html"
+image: "/assets/images/post/forever-ago/FA_01.webp"
+image_alt: "Forever Ago Review"
+summary: "Relive your love with your sweetheart Audrey, capture memories, solve small puzzles, and build friendships on an unforgettable road trip."
+author: "Jose Balderas"
+author_image: "https://nightlypixel.imgix.net/writer.png"
+gamertag: "GT: II Above II"
+---
 
 
 ![001](/assets/images/post/forever-ago/FA_01.webp)
