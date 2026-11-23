@@ -50,8 +50,6 @@ I’m a big fan of walking simulators; I just don’t play them as often. Games 
 
 ![001](/assets/images/post/forever-ago/FA_02.webp)
 
-<br>
-
 <h1><b>Slow Steps And Hidden Barriers</b></h1>
 
 <br>
