@@ -21,7 +21,7 @@ gamertag: "GT: II Above II"
   <div style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2; color: #5E787D;">
     <h1><b>Forever Ago Review</b></h1>
 <br>    
-    <h4 style="font-weight: 500; color: #5E787D;">"A beautiful story"</h4>
+    <h4 style="font-weight: 500; color: #1aa499;">"A beautiful story"</h4>
   </div>
 </div>
 <br>
