@@ -2,7 +2,7 @@
 layout: default
 title: "Nightly Pixel"
 full_width: true
-body_class: wide-post
+body_class: full-width
 ---
 
 <!-- Hero Section for Latest Post in a Subfolder -->
