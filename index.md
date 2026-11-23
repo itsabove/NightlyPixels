@@ -102,6 +102,7 @@ body_class: wide-post
      <h3 style="margin-top: 0; color: #5E787D; border-bottom: 2px solid #1aa499; padding-bottom: 6px;">List</h3>
        <li style="list-style: none; background: none; padding-left: 0; margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid #eee;">
             <a href="blank" style="color: #5E787D; font-weight: bold; text-decoration: none; display: block; line-height: 1.3;">List coming soon</a>
+       </li>
   </div>
   <!-- COLUMN 2 END -->
 
