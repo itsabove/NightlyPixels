@@ -35,7 +35,6 @@ gamertag: "GT: II Above II"
   </div>
   </div>
 <hr>
-<br>
 
 I wasn’t ready for the emotional rollercoaster that *Forever Ago* became for me. What I thought would be a cute little indie game turned into a journey of feelings, both from the game and my own. It puts you in the shoes of Alfred, who’s on a journey north in search of redemption; along the way, you relive your love with your sweetheart Audrey, capture memories, solve small puzzles, and build friendships on an unforgettable road trip. 
 
