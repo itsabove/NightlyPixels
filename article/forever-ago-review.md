@@ -92,3 +92,9 @@ There’s no real reason to start a new game once you complete the story unless 
 <br>
 
 *Forever* Ago is a delightful game with a rich story that holds on to you from beginning to end. If you’re interested in simple puzzles, a touching story, and scrapbooking, I'm sure you’ll enjoy it. To me, this game is a must-play if you’re interested in narrative games.
+
+
+
+<br>
+<br>
+  <h4 style="font-weight: 100; font-size: 12px;">First Published: November 22, 2026</h4>
