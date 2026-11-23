@@ -69,7 +69,7 @@ The music in this game is phenomenal. They work alongside Clark Aboud, who compo
 
 That’s not all; there’s also one of the few licensed songs, "*Nothing Goes Away*" – Performed by Wolfie's Just Fine, that keeps playing in my head over and over. Overall, the music in this game is just a blessing, and a bonus to an already standout story. 
 
-<h3><b>No Need For Side Quest</b></h3>
+<h1><b>No Need For Side Quest</b></h1>
 <br>
 
 *Forever Ago* is mostly straightforward with no real side quests; what they do have here is optional side activities and mementos that are woven directly into each stop along Alfred's road trip, rather than tracked as separate side quests. Each area is filled with objectives you can do following Audrey’s latest request, all easy to do and follow along.
