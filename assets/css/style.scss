@@ -77,7 +77,7 @@ body.full-width-page .inner {
 
 /* Make the container full-width so the header isn't trapped in the centered column */
 #container .inner {
-  width: 100%;
+  width: 85%;
   max-width: 100%;
   padding: 0;
 }
@@ -113,3 +113,9 @@ footer {
   padding: 0 20px;
 }
 
+/* Centers #main_content ONLY on pages that do not have the full-width class */
+body:not(.full-width) #main_content {
+  max-width: 620px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
