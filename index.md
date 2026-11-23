@@ -88,7 +88,7 @@ body_class: wide-post
   <!-- ========================================== -->
   <div class="right-column">
     <div class="sidebar-box">
-      <h3 style="margin-top: 0; color: #5E787D; border-bottom: 2px solid #1FBCF0; padding-bottom: 6px;">Table of Contents</h3>
+      <h3 style="margin-top: 0; color: #5E787D; border-bottom: 2px solid #1aa499; padding-bottom: 6px;">Table of Contents</h3>
       <ul style="list-style: none; list-style-type: none; padding-left: 0; margin: 0;">
         {% for post in articles limit: 10 %}
           <li style="list-style: none; background: none; padding-left: 0; margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid #eee;">
