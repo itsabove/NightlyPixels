@@ -65,7 +65,7 @@ As a photography hobbyist, the camera mechanics and usage in this game were fun 
 The music in this game is phenomenal. They work alongside Clark Aboud, who composed this emotionally filled soundtrack and elevated it to a new level. People sometimes overlook how much a song can enhance a scene, but it was done with care here. One track that kicks in during a specific part just hits differently. It brought out so much more emotion and nailed the tone, leaving me in awe.
 
 <br>
-![001](/assets/images/post/forever-ago/FA_02.webp)
+![001](/assets/images/post/forever-ago/FA_04.webp)
 
 That’s not all; there’s also one of the few licensed songs, "*Nothing Goes Away*" – Performed by Wolfie's Just Fine, that keeps playing in my head over and over. Overall, the music in this game is just a blessing, and a bonus to an already standout story. 
 
@@ -75,7 +75,7 @@ That’s not all; there’s also one of the few licensed songs, "*Nothing Goes A
 *Forever Ago* is mostly straightforward with no real side quests; what they do have here is optional side activities and mementos that are woven directly into each stop along Alfred's road trip, rather than tracked as separate side quests. Each area is filled with objectives you can do following Audrey’s latest request, all easy to do and follow along.
 
 <br>
-![001](/assets/images/post/forever-ago/FA_02.webp)
+![001](/assets/images/post/forever-ago/FA_05.webp)
 <h1><b>Without A Hitch</b></h1>
 <br>
 
