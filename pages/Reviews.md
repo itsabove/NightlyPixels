@@ -13,4 +13,7 @@ layout: default
   <a href="/article/resonance-review.html" style="color: #363636;">Resonance: A Plague Tale Legacy Review</a>
   <p style="text-align: center;">
   <a href="/article/tidy-up-games-reviews.html" style="color: #363636;">Tidy Up Games Review</a>
+  <p style="text-align: center;">
+  <a href="/article/forever-ago-review.html" style="color: #363636;">Forever Ago Review</a>
 </p>
+
