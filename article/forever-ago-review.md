@@ -16,7 +16,7 @@ gamertag: "GT: II Above II"
 
 <div style="text-align: center;">
   <p style="font-size: 15px; font-weight: 900; margin: 0 0 4px 0;">
-    <a href="https://nightlypixel.com/pages/Reviews.html" style="color: #1FBCF0; text-decoration: none;">Reviews</a>
+    <a href="https://nightlypixel.com/pages/Reviews.html" style="color: #1aa499; text-decoration: none;">Reviews</a>
   </p>
   <div style="font-size: 20px; font-weight: 900; margin: 0 0 8px 0; line-height: 1.2; color: #5E787D;">
     <h1><b>Forever Ago Review</b></h1>
