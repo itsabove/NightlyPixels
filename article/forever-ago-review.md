@@ -58,7 +58,7 @@ My main gripe with the game was the slow walking pace. Look, I understand Alfred
 
 In all fairness, that was about my only complaint with the game, as I found a few other mechanics a bit more fun; the journal was just a push of a button, and it had a quick prompt to show your current objectives, which took away from having to open the journal every time you wanted to check it. This honestly made life easier since I felt like the walking was slow; it prevented me from having to stop and look up the next thing every time I forgot. 
 
-<h1 style="color: #1aa499; text-align: center;"><b>“It felt like a portal to the past.”</b></h1>
+<h2 style="color: #1aa499; text-align: center;"><b>“It felt like a portal to the past.”</b></h2>
 
 <br>
 
