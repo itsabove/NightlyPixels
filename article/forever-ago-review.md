@@ -51,7 +51,7 @@ My main gripe with the game was the slow walking pace. Look, I understand Alfred
 
 In all fairness, that was about my only complaint with the game, as I found a few other mechanics a bit more fun; the journal was just a push of a button, and it had a quick prompt to show your current objectives, which took away from having to open the journal every time you wanted to check it. This honestly made life easier since I felt like the walking was slow; it prevented me from having to stop and look up the next thing every time I forgot. 
 
-<h1 style="color: turquoise;"><b>“It felt like a portal to the past.”</b></h1>
+<h1 style="color: #1aa499;"><b>“It felt like a portal to the past.”</b></h1>
 
 
 As a photography hobbyist, the camera mechanics and usage in this game were fun and easy. I enjoyed taking pictures of certain items on the list for the scrapbook journal, as well as the parts of the story that used it to put you in different times of your life. It felt like a portal to the past, making it enjoyable  to see what Alfred and Audrey were doing in the exact location years before, while also showing some conflict they might have had at that time.
