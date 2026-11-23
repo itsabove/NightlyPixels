@@ -114,7 +114,7 @@ footer {
 }
 
 /* Centers #main_content ONLY on pages that do not have the full-width class */
-body:not(.full-width) #main_content {
+body:not(wide-post) #main_content {
   max-width: 620px;
   margin: 0 auto;
   padding: 0 20px;
