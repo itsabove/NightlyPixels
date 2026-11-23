@@ -103,6 +103,10 @@ body_class: wide-post
        <li style="list-style: none; background: none; padding-left: 0; margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid #eee;">
             <a href="/pages/list" style="color: #5E787D; font-weight: bold; text-decoration: none; display: block; line-height: 1.3;">List coming soon</a>
        </li>
+          <h3 style="margin-top: 0; color: #5E787D; border-bottom: 2px solid #1aa499; padding-bottom: 6px;">Misc</h3>
+       <li style="list-style: none; background: none; padding-left: 0; margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid #eee;">
+            <a href="/pages/misc" style="color: #5E787D; font-weight: bold; text-decoration: none; display: block; line-height: 1.3;">Random post coming soon</a>
+       </li>
   </div>
   <!-- COLUMN 2 END -->
 
