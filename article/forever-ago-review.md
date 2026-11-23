@@ -42,7 +42,11 @@ I wasn’t ready for the emotional rollercoaster that *Forever Ago* became for m
 
 <h1><b>A Walking Simulator With A Heavy Emphasis On Story</b></h1>
 
+<br>
+
 I’m a big fan of walking simulators; I just don’t play them as often. Games like *What Remains of Edith Finch* and *Life is Strange*, you could say that even the most recent *Resonance: A Plague Tale Legacy* fits the mold as well, even tho that last example is more action-filled. They all share a heavy story focus, which is true here as well. Yes, you could say most of the game you’re pushing the joystick forward, but that can’t take away from the tonal changes and the story development that are grasping at your emotions, and doing a great job at it as well. 
+
+<br>
 
 ![001](/assets/images/post/forever-ago/FA_02.webp)
 
