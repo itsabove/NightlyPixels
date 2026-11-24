@@ -82,18 +82,23 @@ body.full-width-page .inner {
 }
 
 /* ==========================================================================
-   Footer Sizing & Alignment
+   Compact Full-Width Footer (Matches Nav Bar Width)
    ========================================================================== */
 footer {
-  max-width: 800px; /* Matches Tactile's standard content width; adjust as needed */
-  width: 90%;       /* Adds breathing room on smaller screens */
-  margin: 40px auto 20px auto; /* Centers the footer and adds top/bottom spacing */
-  padding-top: 20px;
+  width: 100%;
+  margin-top: 30px;      /* Reduces the gap above the footer */
+  padding: 12px 0;       /* Shrinks the top and bottom height of the bar */
+  font-size: 0.85em;     /* Slightly smaller text to fit more compactly */
+  line-height: 1.4;
 }
 
-/* Override the wide page expansion specifically for the footer */
-body.full-width-page footer .inner {
-  max-width: 95%;
-  width: 80%;
+/* Keep inner footer text aligned with your main content edges */
+footer .inner {
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
+/* Tighten spacing on paragraphs or links inside the footer */
+footer p {
+  margin: 0;
+}
