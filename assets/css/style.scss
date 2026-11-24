@@ -3,68 +3,65 @@
 
 @import "jekyll-theme-tactile";
 
-/* Remove white gap above the navigation bar */
-html, body {
-  margin: 0 !important;
-  padding: 0 !important;
+body {
+  background: #ffffff;
 }
 
-header, header.site-header {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
+#container {
+  min-height: 595px;
+  background: #ffffff;
 }
 
 
-/* ==========================================================================
-   1. GLOBAL PAGE & CONTAINER OVERRIDES
-   ========================================================================== */
-
-/* ==========================================================================
-   5. FULL-WIDTH SITE FOOTER
-   ========================================================================== */
-
-/* Override Tactile's default footer background/borders */
-footer.site-footer {
-  width: 100%;
-  background-color: #f8f9fa;
-  border-top: 1px solid #e5e5e5;
-  margin-top: 40px;
-  padding: 25px 0;
+/* Expand the container only on pages with the full-width-page class */
+body.full-width-page .inner {
+  max-width: 95%;
+  width: 80%;
 }
 
-.footer-inner {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 20px;
+/* Two-column layout */
+.two-columns {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 24px;
+  margin: 20px 0;
+}
+
+/* Desktop: two columns (left wider than right) */
+.two-columns-left-wide {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 24px;
+  margin: 20px 0;
+}
+
+/* Desktop: Side-by-side post card layout */
+.post-card {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
+  gap: 15px;
 }
 
-.footer-left p {
-  margin: 0;
+.post-card-image {
+  flex-shrink: 0;
+  width: 300px;
 }
 
-.footer-right {
-  text-align: right;
+.post-card-image img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
-/* ==========================================================================
-   6. MOBILE RESPONSIVE STYLES (Screens 768px & smaller)
-   ========================================================================== */
+.post-card-text {
+  min-width: 0;
+}
 
+/* Mobile: stack columns and post card items */
 @media (max-width: 768px) {
-  .ign-links {
-    display: none;
-  }
-
-  .ign-hamburger {
-    display: block;
-  }
-
-  .two-columns,
   .two-columns-left-wide {
-    grid-template-columns: 1fr;
+    display: block !important;
+    grid-template-columns: 1fr !important;
   }
 
   .post-card {
@@ -74,15 +71,5 @@ footer.site-footer {
 
   .post-card-image {
     width: 100%;
-  }
-
-  /* Stack Footer Inner Items */
-  .footer-inner {
-    flex-direction: column;
-    gap: 15px;
-  }
-
-  .footer-right {
-    text-align: left;
   }
 }
