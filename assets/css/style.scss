@@ -3,6 +3,18 @@
 
 @import "jekyll-theme-tactile";
 
+/* Remove white gap above the navigation bar */
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+header, header.site-header {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+
 /* ==========================================================================
    1. GLOBAL PAGE & CONTAINER OVERRIDES
    ========================================================================== */
@@ -63,6 +75,29 @@ header.site-header {
   justify-content: space-between;
   align-items: center;
 }
+
+/* Force logo link to stay inline inside the navbar */
+.ign-navbar .ign-logo {
+  display: flex !important;
+  align-items: center !important;
+  height: 56px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1 !important;
+}
+
+/* Force logo image to fit cleanly inside the 56px height */
+.ign-navbar .ign-logo img {
+  max-height: 38px !important;
+  height: 38px !important;
+  width: auto !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: block !important;
+}
+
+
 
 /* (Keep your existing .ign-nav-left, .ign-logo, .ign-links, and .ign-nav-right rules here) */
 
