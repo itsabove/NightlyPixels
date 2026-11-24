@@ -82,20 +82,29 @@ body.full-width-page .inner {
 }
 
 /* ==========================================================================
-   Compact Full-Width Footer (Matches Nav Bar Width)
+   80% Centered Footer (Matches Nav Bar & Content Edges)
    ========================================================================== */
 footer {
   width: 80%;
-  margin-top: 30px;      /* Reduces the gap above the footer */
-  padding: 12px 0;       /* Shrinks the top and bottom height of the bar */
-  font-size: 0.85em;     /* Slightly smaller text to fit more compactly */
+  max-width: 1400px;         /* Matches your .inner max-width so edges stay aligned */
+  margin: 30px auto 0 auto;  /* Centers the footer horizontally and keeps 30px top gap */
+  padding: 12px 0;           /* Compact top and bottom height */
+  font-size: 0.85em;
   line-height: 1.4;
+  box-sizing: border-box;    /* Ensures padding doesn't push it past 80% */
 }
 
-/* Keep inner footer text aligned with your main content edges */
+/* Prevent double-shrinking inside the footer */
 footer .inner {
+  width: 100% !important;
+  max-width: 100%;
   padding-top: 0;
   padding-bottom: 0;
+}
+
+/* Tighten spacing on paragraphs or links inside the footer */
+footer p {
+  margin: 0;
 }
 
 /* Tighten spacing on paragraphs or links inside the footer */
