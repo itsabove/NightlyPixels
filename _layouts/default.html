@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="//://googlecode.com"></script>
     <![endif]-->
 
     {% seo %}
@@ -15,54 +15,61 @@
   </head>
 
   <body class="{% if page.full_width %}full-width-page{% endif %}">
+
+    <!-- FULL-WIDTH STICKY HEADER -->
+    <header class="site-header">
+      <nav class="ign-navbar">
+        <div class="ign-nav-inner">
+          <div class="ign-nav-left">
+            <a href="{{ '/' | relative_url }}" class="ign-logo">
+              {% if site.logo %}
+                <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo">
+              {% else %}
+                {{ site.title | default: "YOUR SITE" }}
+              {% endif %}
+            </a>
+            <ul class="ign-links">
+              <li><a href="{{ '/pages/Reviews' | relative_url }}">Reviews</a></li>
+              <li><a href="{{ '/pages/Previews' | relative_url }}">Previews</a></li>
+              <li><a href="{{ '/pages/Features' | relative_url }}">Features</a></li>
+              <li><a href="{{ '/pages/list' | relative_url }}">List</a></li>
+            </ul>
+          </div>
+          
+          <div class="ign-nav-right">
+            <button class="ign-hamburger" aria-label="Menu">☰</button>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- MAIN PAGE CONTENT CONTAINER -->
     <div id="container">
       <div class="inner">
-
-        <header style="position: sticky; top: 0; z-index: 1000; background-color: #ffffff;">
-          <nav class="ign-navbar">
-            <div class="ign-nav-inner">
-              <div class="ign-nav-left">
-                <a href="{{ '/' | relative_url }}" class="ign-logo">
-                  {% if site.logo %}
-                    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" style="max-width: 100px; height: auto; display: block;">
-                  {% else %}
-                    {{ site.title | default: "YOUR SITE" }}
-                  {% endif %}
-                </a>
-                <ul class="ign-links">
-                  <li><a href="{{ '/pages/Reviews' | relative_url }}">Reviews</a></li>
-                  <li><a href="{{ '/pages/Previews' | relative_url }}">Previews</a></li>
-                  <li><a href="{{ '/pages/Features' | relative_url }}">Features</a></li>
-                  <li><a href="{{ '/pages/list' | relative_url }}">List</a></li>
-                </ul>
-              </div>
-              
-              <div class="ign-nav-right">
-                <button class="ign-hamburger" aria-label="Menu">☰</button>
-              </div>
-            </div>
-          </nav>
-        </header>
-
-        <hr>
-
         <section id="main_content">
           {{ content }}
         </section>
-
-        <footer class="site-footer">
-          <div class="footer-left">
-            <p>Copyright © 2026</p>
-          </div>
-
-          <div class="footer-right">
-            <span><a href="{{ '/about' | relative_url }}">About Us</a></span>
-            <br>
-            <span>Built with Passion by <a href="https://6af7a66789893ca61a9aff38.imgix.net/writer.png">Me!</a></span>
-          </div>
-        </footer>
-
       </div>
+    </div>
+
+    <!-- FULL-WIDTH FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="footer-left">
+          <p>Copyright © 2026</p>
+        </div>
+
+        <div class="footer-right">
+          <span><a href="{{ '/about' | relative_url }}">About Us</a></span>
+          <br>
+          <span>Built with Passion by <a href="https://imgix.net">Me!</a></span>
+        </div>
+      </div>
+    </footer>
+
+  </body>
+</html>
+
     </div>
   </body>
 </html>
