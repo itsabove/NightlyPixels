@@ -1,8 +1,13 @@
 ---
 ---
-
+/* ==========================================================================
+   Theme Base Import
+   ========================================================================== */
 @import "jekyll-theme-tactile";
 
+/* ==========================================================================
+   Global Layout & Backgrounds
+   ========================================================================== */
 body {
   background: #ffffff;
 }
@@ -12,22 +17,17 @@ body {
   background: #ffffff;
 }
 
-
-/* Expand the container only on pages with the full-width-page class */
+/* Expand the inner container only on pages with the full-width-page class */
 body.full-width-page .inner {
   max-width: 95%;
   width: 80%;
 }
 
-/* Two-column layout */
-.two-columns {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 24px;
-  margin: 20px 0;
-}
-
-/* Desktop: two columns (left wider than right) */
+/* ==========================================================================
+   Two-Column Grid Layouts
+   ========================================================================== */
+/* Desktop: Two columns with left side wider than right (2:1 ratio) */
+.two-columns,
 .two-columns-left-wide {
   display: grid;
   grid-template-columns: 2fr 1fr;
@@ -35,7 +35,9 @@ body.full-width-page .inner {
   margin: 20px 0;
 }
 
-/* Desktop: Side-by-side post card layout */
+/* ==========================================================================
+   Post Cards (Image + Text Side-by-Side)
+   ========================================================================== */
 .post-card {
   display: flex;
   align-items: center;
@@ -54,16 +56,21 @@ body.full-width-page .inner {
 }
 
 .post-card-text {
-  min-width: 0;
+  min-width: 0; /* Prevents text overflow inside flex containers */
 }
 
-/* Mobile: stack columns and post card items */
+/* ==========================================================================
+   Mobile & Tablet Responsive Overrides (Screens 768px and smaller)
+   ========================================================================== */
 @media (max-width: 768px) {
+  /* Stack two-column layouts into a single column */
+  .two-columns,
   .two-columns-left-wide {
     display: block !important;
     grid-template-columns: 1fr !important;
   }
 
+  /* Stack post card image above text */
   .post-card {
     flex-direction: column;
     align-items: flex-start;
