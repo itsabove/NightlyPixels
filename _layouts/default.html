@@ -17,31 +17,20 @@
   <body class="{% if page.full_width %}full-width-page{% endif %}">
 
     <!-- FULL-WIDTH STICKY HEADER -->
-    <header class="site-header">
-      <nav class="ign-navbar">
-        <div class="ign-nav-inner">
-          <div class="ign-nav-left">
-            <a href="{{ '/' | relative_url }}" class="ign-logo">
-              {% if site.logo %}
-                <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo">
-              {% else %}
-                {{ site.title | default: "YOUR SITE" }}
-              {% endif %}
-            </a>
-            <ul class="ign-links">
-              <li><a href="{{ '/pages/Reviews' | relative_url }}">Reviews</a></li>
-              <li><a href="{{ '/pages/Previews' | relative_url }}">Previews</a></li>
-              <li><a href="{{ '/pages/Features' | relative_url }}">Features</a></li>
-              <li><a href="{{ '/pages/list' | relative_url }}">List</a></li>
-            </ul>
-          </div>
-          
-          <div class="ign-nav-right">
-            <button class="ign-hamburger" aria-label="Menu">☰</button>
-          </div>
-        </div>
-      </nav>
-    </header>
+<header style="text-align: center;">
+  {% if site.logo %}
+    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" style="max-width: 150px; height: auto;" />
+  {% endif %}
+            
+  <nav style="display: flex; flex-direction: column; align-items: center; margin-top: 15px;">
+    <ul style="list-style: none; list-style-image: none; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 0; padding: 10px 0;">
+      <li style="list-style: none; list-style-image: none; padding-left: 0;"><a href="{{ '/' | relative_url }}" style="font-weight: bold; text-decoration: none; color: #303030;">Home</a></li>
+      <li style="list-style: none; list-style-image: none; padding-left: 0;"><a href="{{ '/pages/Reviews' | relative_url }}" style="font-weight: bold; text-decoration: none; color: #303030;">Reviews</a></li>
+      <li style="list-style: none; list-style-image: none; padding-left: 0;"><a href="{{ '/pages/Previews' | relative_url }}" style="font-weight: bold; text-decoration: none; color: #303030;">Previews</a></li>
+      <li style="list-style: none; list-style-image: none; padding-left: 0;"><a href="{{ '/pages/Features'| relative_url }}" style="font-weight: bold; text-decoration: none; color: #303030;">Features</a></li>
+    </ul>
+  </nav>
+</header>
 
     <!-- MAIN PAGE CONTENT CONTAINER -->
     <div id="container">
